@@ -1,0 +1,55 @@
+{
+  "generatedAt": "2026-09-29T06:01:02.186191+00:00",
+  "mode": "demo",
+  "sources": {
+    "azureDevOps": "demo",
+    "github": "live"
+  },
+  "items": [
+    {
+      "id": 9,
+      "source": "Azure DevOps",
+      "type": "Epic",
+      "title": "Demo | Portal de atención",
+      "state": "New",
+      "priority": 1,
+      "changedAt": "2026-09-29T05:23:00Z"
+    },
+    {
+      "id": 10,
+      "source": "Azure DevOps",
+      "type": "Epic",
+      "title": "Demo | Analítica y operación",
+      "state": "New",
+      "priority": 2,
+      "changedAt": "2026-09-29T05:24:00Z"
+    },
+    {
+      "id": 11,
+      "source": "Azure DevOps",
+      "type": "Feature",
+      "title": "Demo | Ingreso y perfiles",
+      "state": "New",
+      "priority": 3,
+      "changedAt": "2026-09-29T05:24:00Z"
+    },
+    {
+      "id": 12,
+      "source": "Azure DevOps",
+      "type": "Feature",
+      "title": "Demo | Búsqueda y filtros",
+      "state": "Active",
+      "priority": 4,
+      "changedAt": "2026-09-29T05:25:00Z"
+    },
+    {
+      "id": 13,
+      "source": "Azure DevOps",
+      "type": "Feature",
+      "title": "Demo | Notificaciones",
+      "state": "Active",
+      "priority": 1,
+      "changedAt": "2026-09-29T05:26:00Z"
+    }
+  ]
+}
