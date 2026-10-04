@@ -1,55 +1,511 @@
 {
-  "generatedAt": "2026-09-29T06:01:02.186191+00:00",
   "mode": "demo",
+  "generatedAt": null,
+  "provenance": "CSV de importación; estado actual y fechas no disponibles",
   "sources": {
-    "azureDevOps": "demo",
-    "github": "live"
+    "azureDevOps": "csv",
+    "github": "disabled"
   },
   "items": [
     {
       "id": 9,
       "source": "Azure DevOps",
-      "type": "Epic",
       "title": "Demo | Portal de atención",
-      "state": "New",
-      "priority": 1,
-      "changedAt": "2026-09-29T05:23:00Z"
-    },
-    {
-      "id": 10,
-      "source": "Azure DevOps",
       "type": "Epic",
-      "title": "Demo | Analítica y operación",
-      "state": "New",
-      "priority": 2,
-      "changedAt": "2026-09-29T05:24:00Z"
+      "state": "Sin confirmar",
+      "priority": null,
+      "tags": "",
+      "url": null
     },
     {
       "id": 11,
       "source": "Azure DevOps",
-      "type": "Feature",
       "title": "Demo | Ingreso y perfiles",
-      "state": "New",
+      "type": "Feature",
+      "state": "Sin confirmar",
+      "priority": null,
+      "tags": "",
+      "url": null
+    },
+    {
+      "id": "CSV-3",
+      "source": "Azure DevOps",
+      "title": "Demo | Registro de cuenta",
+      "type": "User Story",
+      "state": "Sin confirmar",
+      "priority": 1,
+      "tags": "dashboard-demo; qa; lote-2026",
+      "url": null
+    },
+    {
+      "id": "CSV-4",
+      "source": "Azure DevOps",
+      "title": "Demo | Implementar componente 01",
+      "type": "Task",
+      "state": "Sin confirmar",
       "priority": 3,
-      "changedAt": "2026-09-29T05:24:00Z"
+      "tags": "dashboard-demo; frontend; lote-2026",
+      "url": null
+    },
+    {
+      "id": "CSV-5",
+      "source": "Azure DevOps",
+      "title": "Demo | Implementar componente 12",
+      "type": "Task",
+      "state": "Sin confirmar",
+      "priority": 2,
+      "tags": "dashboard-demo; qa; lote-2026",
+      "url": null
+    },
+    {
+      "id": "CSV-6",
+      "source": "Azure DevOps",
+      "title": "Demo | Sesión caduca antes de tiempo",
+      "type": "Bug",
+      "state": "Sin confirmar",
+      "priority": 3,
+      "tags": "dashboard-demo; frontend; lote-2026",
+      "url": null
+    },
+    {
+      "id": "CSV-7",
+      "source": "Azure DevOps",
+      "title": "Demo | Inicio de sesión",
+      "type": "User Story",
+      "state": "Sin confirmar",
+      "priority": 2,
+      "tags": "dashboard-demo; frontend; lote-2026",
+      "url": null
+    },
+    {
+      "id": "CSV-8",
+      "source": "Azure DevOps",
+      "title": "Demo | Recuperar acceso",
+      "type": "User Story",
+      "state": "Sin confirmar",
+      "priority": 3,
+      "tags": "dashboard-demo; backend; lote-2026",
+      "url": null
+    },
+    {
+      "id": "CSV-9",
+      "source": "Azure DevOps",
+      "title": "Demo | Implementar componente 02",
+      "type": "Task",
+      "state": "Sin confirmar",
+      "priority": 4,
+      "tags": "dashboard-demo; backend; lote-2026",
+      "url": null
+    },
+    {
+      "id": "CSV-10",
+      "source": "Azure DevOps",
+      "title": "Demo | Permisos por rol",
+      "type": "User Story",
+      "state": "Sin confirmar",
+      "priority": 4,
+      "tags": "dashboard-demo; qa; lote-2026",
+      "url": null
+    },
+    {
+      "id": "CSV-11",
+      "source": "Azure DevOps",
+      "title": "Demo | Filtro omite tickets",
+      "type": "Bug",
+      "state": "Sin confirmar",
+      "priority": 4,
+      "tags": "dashboard-demo; backend; lote-2026",
+      "url": null
     },
     {
       "id": 12,
       "source": "Azure DevOps",
-      "type": "Feature",
       "title": "Demo | Búsqueda y filtros",
-      "state": "Active",
+      "type": "Feature",
+      "state": "Sin confirmar",
+      "priority": null,
+      "tags": "",
+      "url": null
+    },
+    {
+      "id": "CSV-13",
+      "source": "Azure DevOps",
+      "title": "Demo | Buscar por folio",
+      "type": "User Story",
+      "state": "Sin confirmar",
+      "priority": 1,
+      "tags": "dashboard-demo; frontend; lote-2026",
+      "url": null
+    },
+    {
+      "id": "CSV-14",
+      "source": "Azure DevOps",
+      "title": "Demo | Implementar componente 03",
+      "type": "Task",
+      "state": "Sin confirmar",
+      "priority": 1,
+      "tags": "dashboard-demo; qa; lote-2026",
+      "url": null
+    },
+    {
+      "id": "CSV-15",
+      "source": "Azure DevOps",
+      "title": "Demo | Filtrar por estado",
+      "type": "User Story",
+      "state": "Sin confirmar",
+      "priority": 2,
+      "tags": "dashboard-demo; backend; lote-2026",
+      "url": null
+    },
+    {
+      "id": "CSV-16",
+      "source": "Azure DevOps",
+      "title": "Demo | Ordenar resultados",
+      "type": "User Story",
+      "state": "Sin confirmar",
+      "priority": 3,
+      "tags": "dashboard-demo; qa; lote-2026",
+      "url": null
+    },
+    {
+      "id": "CSV-17",
+      "source": "Azure DevOps",
+      "title": "Demo | Implementar componente 04",
+      "type": "Task",
+      "state": "Sin confirmar",
+      "priority": 2,
+      "tags": "dashboard-demo; frontend; lote-2026",
+      "url": null
+    },
+    {
+      "id": "CSV-18",
+      "source": "Azure DevOps",
+      "title": "Demo | Orden incorrecto",
+      "type": "Bug",
+      "state": "Sin confirmar",
+      "priority": 1,
+      "tags": "dashboard-demo; qa; lote-2026",
+      "url": null
+    },
+    {
+      "id": "CSV-19",
+      "source": "Azure DevOps",
+      "title": "Demo | Exportar resultados",
+      "type": "User Story",
+      "state": "Sin confirmar",
       "priority": 4,
-      "changedAt": "2026-09-29T05:25:00Z"
+      "tags": "dashboard-demo; frontend; lote-2026",
+      "url": null
     },
     {
       "id": 13,
       "source": "Azure DevOps",
-      "type": "Feature",
       "title": "Demo | Notificaciones",
-      "state": "Active",
+      "type": "Feature",
+      "state": "Sin confirmar",
+      "priority": null,
+      "tags": "",
+      "url": null
+    },
+    {
+      "id": "CSV-21",
+      "source": "Azure DevOps",
+      "title": "Demo | Correo de asignación",
+      "type": "User Story",
+      "state": "Sin confirmar",
       "priority": 1,
-      "changedAt": "2026-09-29T05:26:00Z"
+      "tags": "dashboard-demo; backend; lote-2026",
+      "url": null
+    },
+    {
+      "id": "CSV-22",
+      "source": "Azure DevOps",
+      "title": "Demo | Implementar componente 05",
+      "type": "Task",
+      "state": "Sin confirmar",
+      "priority": 3,
+      "tags": "dashboard-demo; backend; lote-2026",
+      "url": null
+    },
+    {
+      "id": "CSV-23",
+      "source": "Azure DevOps",
+      "title": "Demo | Aviso de vencimiento",
+      "type": "User Story",
+      "state": "Sin confirmar",
+      "priority": 2,
+      "tags": "dashboard-demo; qa; lote-2026",
+      "url": null
+    },
+    {
+      "id": "CSV-24",
+      "source": "Azure DevOps",
+      "title": "Demo | Correo duplicado",
+      "type": "Bug",
+      "state": "Sin confirmar",
+      "priority": 2,
+      "tags": "dashboard-demo; frontend; lote-2026",
+      "url": null
+    },
+    {
+      "id": "CSV-25",
+      "source": "Azure DevOps",
+      "title": "Demo | Preferencias de alertas",
+      "type": "User Story",
+      "state": "Sin confirmar",
+      "priority": 3,
+      "tags": "dashboard-demo; frontend; lote-2026",
+      "url": null
+    },
+    {
+      "id": "CSV-26",
+      "source": "Azure DevOps",
+      "title": "Demo | Implementar componente 06",
+      "type": "Task",
+      "state": "Sin confirmar",
+      "priority": 4,
+      "tags": "dashboard-demo; qa; lote-2026",
+      "url": null
+    },
+    {
+      "id": "CSV-27",
+      "source": "Azure DevOps",
+      "title": "Demo | Historial de avisos",
+      "type": "User Story",
+      "state": "Sin confirmar",
+      "priority": 4,
+      "tags": "dashboard-demo; backend; lote-2026",
+      "url": null
+    },
+    {
+      "id": 10,
+      "source": "Azure DevOps",
+      "title": "Demo | Analítica y operación",
+      "type": "Epic",
+      "state": "Sin confirmar",
+      "priority": null,
+      "tags": "",
+      "url": null
+    },
+    {
+      "id": "CSV-29",
+      "source": "Azure DevOps",
+      "title": "Demo | Tablero ejecutivo",
+      "type": "Feature",
+      "state": "Sin confirmar",
+      "priority": 2,
+      "tags": "dashboard-demo; qa; lote-2026",
+      "url": null
+    },
+    {
+      "id": "CSV-30",
+      "source": "Azure DevOps",
+      "title": "Demo | Indicadores de flujo",
+      "type": "User Story",
+      "state": "Sin confirmar",
+      "priority": 1,
+      "tags": "dashboard-demo; qa; lote-2026",
+      "url": null
+    },
+    {
+      "id": "CSV-31",
+      "source": "Azure DevOps",
+      "title": "Demo | Implementar componente 07",
+      "type": "Task",
+      "state": "Sin confirmar",
+      "priority": 1,
+      "tags": "dashboard-demo; frontend; lote-2026",
+      "url": null
+    },
+    {
+      "id": "CSV-32",
+      "source": "Azure DevOps",
+      "title": "Demo | Contador desfasado",
+      "type": "Bug",
+      "state": "Sin confirmar",
+      "priority": 3,
+      "tags": "dashboard-demo; backend; lote-2026",
+      "url": null
+    },
+    {
+      "id": "CSV-33",
+      "source": "Azure DevOps",
+      "title": "Demo | Gráfica de tendencias",
+      "type": "User Story",
+      "state": "Sin confirmar",
+      "priority": 2,
+      "tags": "dashboard-demo; frontend; lote-2026",
+      "url": null
+    },
+    {
+      "id": "CSV-34",
+      "source": "Azure DevOps",
+      "title": "Demo | Desglose por equipo",
+      "type": "User Story",
+      "state": "Sin confirmar",
+      "priority": 3,
+      "tags": "dashboard-demo; backend; lote-2026",
+      "url": null
+    },
+    {
+      "id": "CSV-35",
+      "source": "Azure DevOps",
+      "title": "Demo | Implementar componente 08",
+      "type": "Task",
+      "state": "Sin confirmar",
+      "priority": 2,
+      "tags": "dashboard-demo; backend; lote-2026",
+      "url": null
+    },
+    {
+      "id": "CSV-36",
+      "source": "Azure DevOps",
+      "title": "Demo | Detalle de ticket",
+      "type": "User Story",
+      "state": "Sin confirmar",
+      "priority": 4,
+      "tags": "dashboard-demo; qa; lote-2026",
+      "url": null
+    },
+    {
+      "id": "CSV-37",
+      "source": "Azure DevOps",
+      "title": "Demo | Error al exportar",
+      "type": "Bug",
+      "state": "Sin confirmar",
+      "priority": 4,
+      "tags": "dashboard-demo; qa; lote-2026",
+      "url": null
+    },
+    {
+      "id": "CSV-38",
+      "source": "Azure DevOps",
+      "title": "Demo | Integraciones",
+      "type": "Feature",
+      "state": "Sin confirmar",
+      "priority": 3,
+      "tags": "dashboard-demo; frontend; lote-2026",
+      "url": null
+    },
+    {
+      "id": "CSV-39",
+      "source": "Azure DevOps",
+      "title": "Demo | Sincronización ADO",
+      "type": "User Story",
+      "state": "Sin confirmar",
+      "priority": 1,
+      "tags": "dashboard-demo; frontend; lote-2026",
+      "url": null
+    },
+    {
+      "id": "CSV-40",
+      "source": "Azure DevOps",
+      "title": "Demo | Implementar componente 09",
+      "type": "Task",
+      "state": "Sin confirmar",
+      "priority": 3,
+      "tags": "dashboard-demo; qa; lote-2026",
+      "url": null
+    },
+    {
+      "id": "CSV-41",
+      "source": "Azure DevOps",
+      "title": "Demo | Actualización incremental",
+      "type": "User Story",
+      "state": "Sin confirmar",
+      "priority": 2,
+      "tags": "dashboard-demo; backend; lote-2026",
+      "url": null
+    },
+    {
+      "id": "CSV-42",
+      "source": "Azure DevOps",
+      "title": "Demo | Registro de errores",
+      "type": "User Story",
+      "state": "Sin confirmar",
+      "priority": 3,
+      "tags": "dashboard-demo; qa; lote-2026",
+      "url": null
+    },
+    {
+      "id": "CSV-43",
+      "source": "Azure DevOps",
+      "title": "Demo | Implementar componente 10",
+      "type": "Task",
+      "state": "Sin confirmar",
+      "priority": 4,
+      "tags": "dashboard-demo; frontend; lote-2026",
+      "url": null
+    },
+    {
+      "id": "CSV-44",
+      "source": "Azure DevOps",
+      "title": "Demo | Permisos insuficientes",
+      "type": "Bug",
+      "state": "Sin confirmar",
+      "priority": 1,
+      "tags": "dashboard-demo; frontend; lote-2026",
+      "url": null
+    },
+    {
+      "id": "CSV-45",
+      "source": "Azure DevOps",
+      "title": "Demo | Validar entrada",
+      "type": "User Story",
+      "state": "Sin confirmar",
+      "priority": 4,
+      "tags": "dashboard-demo; frontend; lote-2026",
+      "url": null
+    },
+    {
+      "id": "CSV-46",
+      "source": "Azure DevOps",
+      "title": "Demo | Calidad y seguridad",
+      "type": "Feature",
+      "state": "Sin confirmar",
+      "priority": 4,
+      "tags": "dashboard-demo; backend; lote-2026",
+      "url": null
+    },
+    {
+      "id": "CSV-47",
+      "source": "Azure DevOps",
+      "title": "Demo | Auditoría de cambios",
+      "type": "User Story",
+      "state": "Sin confirmar",
+      "priority": 1,
+      "tags": "dashboard-demo; backend; lote-2026",
+      "url": null
+    },
+    {
+      "id": "CSV-48",
+      "source": "Azure DevOps",
+      "title": "Demo | Implementar componente 11",
+      "type": "Task",
+      "state": "Sin confirmar",
+      "priority": 1,
+      "tags": "dashboard-demo; backend; lote-2026",
+      "url": null
+    },
+    {
+      "id": "CSV-49",
+      "source": "Azure DevOps",
+      "title": "Demo | Pruebas de accesibilidad",
+      "type": "User Story",
+      "state": "Sin confirmar",
+      "priority": 2,
+      "tags": "dashboard-demo; qa; lote-2026",
+      "url": null
+    },
+    {
+      "id": "CSV-50",
+      "source": "Azure DevOps",
+      "title": "Demo | Diseño móvil cortado",
+      "type": "Bug",
+      "state": "Sin confirmar",
+      "priority": 2,
+      "tags": "dashboard-demo; backend; lote-2026",
+      "url": null
     }
   ]
 }

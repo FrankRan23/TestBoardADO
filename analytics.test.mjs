@@ -1,0 +1,15 @@
+import assert from 'node:assert/strict';
+import {enrich,closed,isOpen,status,trend,csv,DAY} from './src/analytics.js';
+const now=Date.parse('2026-09-30T00:00:00Z');
+let t=enrich({state:'Active',createdAt:'2026-09-01',changedAt:'2026-09-20',stateChangedAt:'2026-09-15',waitingSince:'2026-09-28',dueAt:'2026-09-29',priority:1},now);
+assert.equal(t.age,29);assert.equal(t.waiting,2);assert.equal(t.stale,true);assert.equal(t.slow,true);assert.equal(t.high,true);assert.equal(t.overdue,true);
+let done=enrich({...t,state:'Closed'},now);assert.equal(done.waiting,null);assert.equal(done.slow,false);assert.equal(done.overdue,false);assert.equal(done.high,false);
+assert.equal(closed({state:'Resolved'}),false);
+assert.equal(isOpen({state:'Sin confirmar'}),false);assert.equal(status({state:'Sin confirmar'}),'Sin confirmar');
+let missing=enrich({state:'New'},now);assert.equal(missing.age,null);assert.equal(missing.idle,null);assert.equal(missing.overdue,false);
+assert.equal(enrich({state:'Active',originalEstimate:8,completedWork:5,remainingWork:4},now).overEstimate,true);
+assert.equal(enrich({state:'Active',dueAt:'2026-10-01'},now).risk,true);
+assert.equal(enrich({state:'Active',changedAt:'2026-10-01'},now).idle,0);
+assert.equal(trend([{createdAt:'2026-09-29',closedAt:'2026-09-30'},{}],now,7).reduce((n,r)=>n+r.Creados,0),1);
+assert.ok(csv([{title:'=SUM(1,2)'}]).includes("'=SUM"));
+console.log('16 comprobaciones de métricas correctas.');

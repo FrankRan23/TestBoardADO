@@ -1,0 +1,13 @@
+﻿Work Item Type,Title,Priority,Tags,Original Estimate,Remaining Work,Completed Work
+Task,Demo operaciones | Restablecer acceso al portal de clientes,1,dashboard-demo; operaciones-v2; ejemplo,4,6,2
+Task,Demo operaciones | Corregir error de pago duplicado,1,dashboard-demo; operaciones-v2; ejemplo,8,12,4
+Task,Demo operaciones | Investigar lentitud en búsqueda,2,dashboard-demo; operaciones-v2; ejemplo,8,6,6
+Task,Demo operaciones | Resolver carga de archivos adjuntos,2,dashboard-demo; operaciones-v2; ejemplo,4,3,0
+Task,Demo operaciones | Revisar integración de correo,2,dashboard-demo; operaciones-v2; ejemplo,8,8,0
+Task,Demo operaciones | Verificar permisos por rol,1,dashboard-demo; operaciones-v2; ejemplo,4,4,0
+Task,Demo operaciones | Optimizar exportación de reportes,3,dashboard-demo; operaciones-v2; ejemplo,16,8,6
+Task,Demo operaciones | Actualizar guía de recuperación de acceso,4,dashboard-demo; operaciones-v2; ejemplo,4,2,1
+Task,Demo operaciones | Validar alertas de seguimiento,3,dashboard-demo; operaciones-v2; ejemplo,8,4,2
+Task,Demo operaciones | Corregir notificaciones duplicadas,2,dashboard-demo; operaciones-v2; ejemplo,8,10,3
+Task,Demo operaciones | Probar acceso desde dispositivos móviles,3,dashboard-demo; operaciones-v2; ejemplo,8,6,1
+Task,Demo operaciones | Revisar tickets sin responsable,2,dashboard-demo; operaciones-v2; ejemplo,4,4,0

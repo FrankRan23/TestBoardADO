@@ -1,0 +1,2785 @@
+{
+  "mode": "demo",
+  "generatedAt": "2026-09-30T00:00:00+00:00",
+  "items": [
+    {
+      "id": 1001,
+      "title": "Error al procesar pagos con tarjeta · Portal",
+      "source": "Azure DevOps",
+      "type": "Bug",
+      "state": "Closed",
+      "priority": 1,
+      "assignee": "Ana López",
+      "createdAt": "2026-09-29T00:00:00+00:00",
+      "changedAt": "2026-09-30T00:00:00+00:00",
+      "closedAt": "2026-09-30T00:00:00+00:00",
+      "waitingSince": null,
+      "responseTracked": true,
+      "dueAt": "2026-09-26T00:00:00+00:00",
+      "originalEstimate": 8,
+      "completedWork": 10,
+      "remainingWork": 4,
+      "tags": "demostración",
+      "url": null,
+      "stateChangedAt": "2026-09-29T00:00:00+00:00",
+      "history": [
+        {
+          "at": "2026-09-29T00:00:00+00:00",
+          "state": "New",
+          "column": "Backlog",
+          "blocked": false
+        },
+        {
+          "at": "2026-09-29T06:00:00+00:00",
+          "state": "Active",
+          "column": "Doing",
+          "blocked": false
+        },
+        {
+          "at": "2026-09-30T00:00:00+00:00",
+          "state": "Closed",
+          "column": "Done",
+          "blocked": false
+        }
+      ],
+      "historyComplete": true
+    },
+    {
+      "id": 1002,
+      "title": "Restablecer acceso al portal · Portal",
+      "source": "Azure DevOps",
+      "type": "Task",
+      "state": "Active",
+      "priority": 2,
+      "assignee": "Carlos Ruiz",
+      "createdAt": "2026-09-22T00:00:00+00:00",
+      "changedAt": "2026-09-29T00:00:00+00:00",
+      "closedAt": null,
+      "waitingSince": null,
+      "responseTracked": true,
+      "dueAt": "2026-09-27T00:00:00+00:00",
+      "originalEstimate": 8,
+      "completedWork": 2,
+      "remainingWork": 4,
+      "tags": "demostración",
+      "url": null,
+      "stateChangedAt": "2026-09-22T00:00:00+00:00",
+      "history": [
+        {
+          "at": "2026-09-22T00:00:00+00:00",
+          "state": "New",
+          "column": "Backlog",
+          "blocked": false
+        },
+        {
+          "at": "2026-09-22T06:00:00+00:00",
+          "state": "Active",
+          "column": "Doing",
+          "blocked": false
+        }
+      ],
+      "historyComplete": true
+    },
+    {
+      "id": 1003,
+      "title": "Notificaciones duplicadas por correo · Portal",
+      "source": "Azure DevOps",
+      "type": "User Story",
+      "state": "Active",
+      "priority": 3,
+      "assignee": "María Torres",
+      "createdAt": "2026-09-15T00:00:00+00:00",
+      "changedAt": "2026-09-28T00:00:00+00:00",
+      "closedAt": null,
+      "waitingSince": null,
+      "responseTracked": true,
+      "dueAt": "2026-09-28T00:00:00+00:00",
+      "originalEstimate": 8,
+      "completedWork": 2,
+      "remainingWork": 4,
+      "tags": "demostración",
+      "url": null,
+      "stateChangedAt": "2026-09-15T00:00:00+00:00",
+      "history": [
+        {
+          "at": "2026-09-15T00:00:00+00:00",
+          "state": "New",
+          "column": "Backlog",
+          "blocked": false
+        },
+        {
+          "at": "2026-09-15T06:00:00+00:00",
+          "state": "Active",
+          "column": "Doing",
+          "blocked": false
+        }
+      ],
+      "historyComplete": true
+    },
+    {
+      "id": 1004,
+      "title": "Exportación de reportes incompleta · Portal",
+      "source": "Azure DevOps",
+      "type": "Bug",
+      "state": "Closed",
+      "priority": 4,
+      "assignee": "Diego Silva",
+      "createdAt": "2026-09-08T00:00:00+00:00",
+      "changedAt": "2026-09-27T00:00:00+00:00",
+      "closedAt": "2026-09-14T00:00:00+00:00",
+      "waitingSince": null,
+      "responseTracked": true,
+      "dueAt": "2026-09-29T00:00:00+00:00",
+      "originalEstimate": 8,
+      "completedWork": 2,
+      "remainingWork": 4,
+      "tags": "demostración",
+      "url": null,
+      "stateChangedAt": "2026-09-08T00:00:00+00:00",
+      "history": [
+        {
+          "at": "2026-09-08T00:00:00+00:00",
+          "state": "New",
+          "column": "Backlog",
+          "blocked": false
+        },
+        {
+          "at": "2026-09-08T06:00:00+00:00",
+          "state": "Active",
+          "column": "Doing",
+          "blocked": false
+        },
+        {
+          "at": "2026-09-09T06:00:00+00:00",
+          "state": "Active",
+          "column": "Waiting",
+          "blocked": true
+        },
+        {
+          "at": "2026-09-10T06:00:00+00:00",
+          "state": "Active",
+          "column": "Doing",
+          "blocked": false
+        },
+        {
+          "at": "2026-09-14T00:00:00+00:00",
+          "state": "Closed",
+          "column": "Done",
+          "blocked": false
+        }
+      ],
+      "historyComplete": true
+    },
+    {
+      "id": 1005,
+      "title": "Integración con directorio corporativo · Portal",
+      "source": "Azure DevOps",
+      "type": "Bug",
+      "state": "Active",
+      "priority": 1,
+      "assignee": null,
+      "createdAt": "2026-09-01T00:00:00+00:00",
+      "changedAt": "2026-09-26T00:00:00+00:00",
+      "closedAt": null,
+      "waitingSince": null,
+      "responseTracked": true,
+      "dueAt": "2026-09-30T00:00:00+00:00",
+      "originalEstimate": 8,
+      "completedWork": 2,
+      "remainingWork": 4,
+      "tags": "demostración",
+      "url": null,
+      "stateChangedAt": "2026-09-01T00:00:00+00:00",
+      "history": [
+        {
+          "at": "2026-09-01T00:00:00+00:00",
+          "state": "New",
+          "column": "Backlog",
+          "blocked": false
+        },
+        {
+          "at": "2026-09-01T06:00:00+00:00",
+          "state": "Active",
+          "column": "Doing",
+          "blocked": false
+        }
+      ],
+      "historyComplete": true
+    },
+    {
+      "id": 1006,
+      "title": "Panel de permisos por equipo · Portal",
+      "source": "Azure DevOps",
+      "type": "User Story",
+      "state": "Closed",
+      "priority": 2,
+      "assignee": "Ana López",
+      "createdAt": "2026-08-25T00:00:00+00:00",
+      "changedAt": "2026-09-25T00:00:00+00:00",
+      "closedAt": "2026-09-02T00:00:00+00:00",
+      "waitingSince": null,
+      "responseTracked": true,
+      "dueAt": "2026-10-01T00:00:00+00:00",
+      "originalEstimate": 8,
+      "completedWork": 2,
+      "remainingWork": 4,
+      "tags": "demostración",
+      "url": null,
+      "stateChangedAt": "2026-08-25T00:00:00+00:00",
+      "history": [
+        {
+          "at": "2026-08-25T00:00:00+00:00",
+          "state": "New",
+          "column": "Backlog",
+          "blocked": false
+        },
+        {
+          "at": "2026-08-25T06:00:00+00:00",
+          "state": "Active",
+          "column": "Doing",
+          "blocked": false
+        },
+        {
+          "at": "2026-09-02T00:00:00+00:00",
+          "state": "Closed",
+          "column": "Done",
+          "blocked": false
+        }
+      ],
+      "historyComplete": true
+    },
+    {
+      "id": 1007,
+      "title": "Tiempo de espera en búsqueda · Portal",
+      "source": "Azure DevOps",
+      "type": "Bug",
+      "state": "New",
+      "priority": 3,
+      "assignee": "Carlos Ruiz",
+      "createdAt": "2026-08-18T00:00:00+00:00",
+      "changedAt": "2026-09-24T00:00:00+00:00",
+      "closedAt": null,
+      "waitingSince": "2026-09-29T12:00:00+00:00",
+      "responseTracked": true,
+      "dueAt": "2026-10-02T00:00:00+00:00",
+      "originalEstimate": 8,
+      "completedWork": 2,
+      "remainingWork": 4,
+      "tags": "demostración",
+      "url": null,
+      "stateChangedAt": "2026-08-18T00:00:00+00:00",
+      "history": [
+        {
+          "at": "2026-08-18T00:00:00+00:00",
+          "state": "New",
+          "column": "Backlog",
+          "blocked": false
+        }
+      ],
+      "historyComplete": true
+    },
+    {
+      "id": 1008,
+      "title": "Actualizar documentación de API · Portal",
+      "source": "Azure DevOps",
+      "type": "Task",
+      "state": "Active",
+      "priority": 4,
+      "assignee": "María Torres",
+      "createdAt": "2026-09-25T00:00:00+00:00",
+      "changedAt": "2026-09-25T00:00:00+00:00",
+      "closedAt": null,
+      "waitingSince": null,
+      "responseTracked": true,
+      "dueAt": "2026-10-03T00:00:00+00:00",
+      "originalEstimate": 8,
+      "completedWork": 10,
+      "remainingWork": 4,
+      "tags": "demostración",
+      "url": null,
+      "stateChangedAt": "2026-09-25T00:00:00+00:00",
+      "history": [
+        {
+          "at": "2026-09-25T00:00:00+00:00",
+          "state": "New",
+          "column": "Backlog",
+          "blocked": false
+        },
+        {
+          "at": "2026-09-25T06:00:00+00:00",
+          "state": "Active",
+          "column": "Doing",
+          "blocked": false
+        }
+      ],
+      "historyComplete": true
+    },
+    {
+      "id": 1009,
+      "title": "Validación de formularios móviles · Portal",
+      "source": "Azure DevOps",
+      "type": "Bug",
+      "state": "Closed",
+      "priority": 1,
+      "assignee": "Diego Silva",
+      "createdAt": "2026-09-18T00:00:00+00:00",
+      "changedAt": "2026-09-22T00:00:00+00:00",
+      "closedAt": "2026-09-21T00:00:00+00:00",
+      "waitingSince": null,
+      "responseTracked": true,
+      "dueAt": "2026-10-04T00:00:00+00:00",
+      "originalEstimate": 8,
+      "completedWork": 2,
+      "remainingWork": 4,
+      "tags": "demostración",
+      "url": null,
+      "stateChangedAt": "2026-09-18T00:00:00+00:00",
+      "history": [
+        {
+          "at": "2026-09-18T00:00:00+00:00",
+          "state": "New",
+          "column": "Backlog",
+          "blocked": false
+        },
+        {
+          "at": "2026-09-18T06:00:00+00:00",
+          "state": "Active",
+          "column": "Doing",
+          "blocked": false
+        },
+        {
+          "at": "2026-09-21T00:00:00+00:00",
+          "state": "Closed",
+          "column": "Done",
+          "blocked": false
+        }
+      ],
+      "historyComplete": true
+    },
+    {
+      "id": 1010,
+      "title": "Sincronización de inventario · Portal",
+      "source": "Azure DevOps",
+      "type": "Bug",
+      "state": "New",
+      "priority": 2,
+      "assignee": null,
+      "createdAt": "2026-09-11T00:00:00+00:00",
+      "changedAt": "2026-09-30T00:00:00+00:00",
+      "closedAt": null,
+      "waitingSince": "2026-09-26T12:00:00+00:00",
+      "responseTracked": true,
+      "dueAt": "2026-09-26T00:00:00+00:00",
+      "originalEstimate": 8,
+      "completedWork": 2,
+      "remainingWork": 4,
+      "tags": "demostración",
+      "url": null,
+      "stateChangedAt": "2026-09-11T00:00:00+00:00",
+      "history": [
+        {
+          "at": "2026-09-11T00:00:00+00:00",
+          "state": "New",
+          "column": "Backlog",
+          "blocked": false
+        }
+      ],
+      "historyComplete": true
+    },
+    {
+      "id": 1011,
+      "title": "Facturas con moneda incorrecta · Portal",
+      "source": "Azure DevOps",
+      "type": "Task",
+      "state": "Closed",
+      "priority": 3,
+      "assignee": "Ana López",
+      "createdAt": "2026-09-04T00:00:00+00:00",
+      "changedAt": "2026-09-29T00:00:00+00:00",
+      "closedAt": "2026-09-09T00:00:00+00:00",
+      "waitingSince": null,
+      "responseTracked": true,
+      "dueAt": "2026-09-27T00:00:00+00:00",
+      "originalEstimate": 8,
+      "completedWork": 2,
+      "remainingWork": 4,
+      "tags": "demostración",
+      "url": null,
+      "stateChangedAt": "2026-09-04T00:00:00+00:00",
+      "history": [
+        {
+          "at": "2026-09-04T00:00:00+00:00",
+          "state": "New",
+          "column": "Backlog",
+          "blocked": false
+        },
+        {
+          "at": "2026-09-04T06:00:00+00:00",
+          "state": "Active",
+          "column": "Doing",
+          "blocked": false
+        },
+        {
+          "at": "2026-09-09T00:00:00+00:00",
+          "state": "Closed",
+          "column": "Done",
+          "blocked": false
+        }
+      ],
+      "historyComplete": true
+    },
+    {
+      "id": 1012,
+      "title": "Configurar alertas de disponibilidad · Portal",
+      "source": "Azure DevOps",
+      "type": "User Story",
+      "state": "Active",
+      "priority": 4,
+      "assignee": "Carlos Ruiz",
+      "createdAt": "2026-08-28T00:00:00+00:00",
+      "changedAt": "2026-09-28T00:00:00+00:00",
+      "closedAt": null,
+      "waitingSince": null,
+      "responseTracked": true,
+      "dueAt": "2026-09-28T00:00:00+00:00",
+      "originalEstimate": 8,
+      "completedWork": 2,
+      "remainingWork": 4,
+      "tags": "demostración",
+      "url": null,
+      "stateChangedAt": "2026-08-28T00:00:00+00:00",
+      "history": [
+        {
+          "at": "2026-08-28T00:00:00+00:00",
+          "state": "New",
+          "column": "Backlog",
+          "blocked": false
+        },
+        {
+          "at": "2026-08-28T06:00:00+00:00",
+          "state": "Active",
+          "column": "Doing",
+          "blocked": false
+        }
+      ],
+      "historyComplete": true
+    },
+    {
+      "id": 1013,
+      "title": "Error al adjuntar archivos · Portal",
+      "source": "Azure DevOps",
+      "type": "Bug",
+      "state": "New",
+      "priority": 1,
+      "assignee": "María Torres",
+      "createdAt": "2026-08-21T00:00:00+00:00",
+      "changedAt": "2026-09-27T00:00:00+00:00",
+      "closedAt": null,
+      "waitingSince": "2026-09-29T12:00:00+00:00",
+      "responseTracked": true,
+      "dueAt": "2026-09-29T00:00:00+00:00",
+      "originalEstimate": 8,
+      "completedWork": 2,
+      "remainingWork": 4,
+      "tags": "demostración",
+      "url": null,
+      "stateChangedAt": "2026-08-21T00:00:00+00:00",
+      "history": [
+        {
+          "at": "2026-08-21T00:00:00+00:00",
+          "state": "New",
+          "column": "Backlog",
+          "blocked": false
+        }
+      ],
+      "historyComplete": true
+    },
+    {
+      "id": 1014,
+      "title": "Optimizar consulta de historial · Portal",
+      "source": "Azure DevOps",
+      "type": "Task",
+      "state": "Closed",
+      "priority": 2,
+      "assignee": "Diego Silva",
+      "createdAt": "2026-09-28T00:00:00+00:00",
+      "changedAt": "2026-09-28T00:00:00+00:00",
+      "closedAt": "2026-09-30T00:00:00+00:00",
+      "waitingSince": null,
+      "responseTracked": true,
+      "dueAt": "2026-09-30T00:00:00+00:00",
+      "originalEstimate": 8,
+      "completedWork": 2,
+      "remainingWork": 4,
+      "tags": "demostración",
+      "url": null,
+      "stateChangedAt": "2026-09-28T00:00:00+00:00",
+      "history": [
+        {
+          "at": "2026-09-28T00:00:00+00:00",
+          "state": "New",
+          "column": "Backlog",
+          "blocked": false
+        },
+        {
+          "at": "2026-09-28T06:00:00+00:00",
+          "state": "Active",
+          "column": "Doing",
+          "blocked": false
+        },
+        {
+          "at": "2026-09-30T00:00:00+00:00",
+          "state": "Closed",
+          "column": "Done",
+          "blocked": false
+        }
+      ],
+      "historyComplete": true
+    },
+    {
+      "id": 1015,
+      "title": "Solicitud de acceso al entorno QA · Portal",
+      "source": "Azure DevOps",
+      "type": "User Story",
+      "state": "Active",
+      "priority": 3,
+      "assignee": null,
+      "createdAt": "2026-09-21T00:00:00+00:00",
+      "changedAt": "2026-09-25T00:00:00+00:00",
+      "closedAt": null,
+      "waitingSince": null,
+      "responseTracked": true,
+      "dueAt": "2026-10-01T00:00:00+00:00",
+      "originalEstimate": 8,
+      "completedWork": 10,
+      "remainingWork": 4,
+      "tags": "demostración",
+      "url": null,
+      "stateChangedAt": "2026-09-21T00:00:00+00:00",
+      "history": [
+        {
+          "at": "2026-09-21T00:00:00+00:00",
+          "state": "New",
+          "column": "Backlog",
+          "blocked": false
+        },
+        {
+          "at": "2026-09-21T06:00:00+00:00",
+          "state": "Active",
+          "column": "Doing",
+          "blocked": false
+        }
+      ],
+      "historyComplete": true
+    },
+    {
+      "id": 1016,
+      "title": "Pruebas de regresión del checkout · Portal",
+      "source": "Azure DevOps",
+      "type": "Bug",
+      "state": "Closed",
+      "priority": 4,
+      "assignee": "Ana López",
+      "createdAt": "2026-09-14T00:00:00+00:00",
+      "changedAt": "2026-09-24T00:00:00+00:00",
+      "closedAt": "2026-09-24T00:00:00+00:00",
+      "waitingSince": null,
+      "responseTracked": true,
+      "dueAt": "2026-10-02T00:00:00+00:00",
+      "originalEstimate": 8,
+      "completedWork": 2,
+      "remainingWork": 4,
+      "tags": "demostración",
+      "url": null,
+      "stateChangedAt": "2026-09-14T00:00:00+00:00",
+      "history": [
+        {
+          "at": "2026-09-14T00:00:00+00:00",
+          "state": "New",
+          "column": "Backlog",
+          "blocked": false
+        },
+        {
+          "at": "2026-09-14T06:00:00+00:00",
+          "state": "Active",
+          "column": "Doing",
+          "blocked": false
+        },
+        {
+          "at": "2026-09-15T06:00:00+00:00",
+          "state": "Active",
+          "column": "Waiting",
+          "blocked": true
+        },
+        {
+          "at": "2026-09-16T06:00:00+00:00",
+          "state": "Active",
+          "column": "Doing",
+          "blocked": false
+        },
+        {
+          "at": "2026-09-24T00:00:00+00:00",
+          "state": "Closed",
+          "column": "Done",
+          "blocked": false
+        }
+      ],
+      "historyComplete": true
+    },
+    {
+      "id": 1017,
+      "title": "Revisión de dependencias · Portal",
+      "source": "Azure DevOps",
+      "type": "Bug",
+      "state": "Active",
+      "priority": 1,
+      "assignee": "Carlos Ruiz",
+      "createdAt": "2026-09-07T00:00:00+00:00",
+      "changedAt": "2026-09-23T00:00:00+00:00",
+      "closedAt": null,
+      "waitingSince": null,
+      "responseTracked": true,
+      "dueAt": "2026-10-03T00:00:00+00:00",
+      "originalEstimate": 8,
+      "completedWork": 2,
+      "remainingWork": 4,
+      "tags": "demostración",
+      "url": null,
+      "stateChangedAt": "2026-09-07T00:00:00+00:00",
+      "history": [
+        {
+          "at": "2026-09-07T00:00:00+00:00",
+          "state": "New",
+          "column": "Backlog",
+          "blocked": false
+        },
+        {
+          "at": "2026-09-07T06:00:00+00:00",
+          "state": "Active",
+          "column": "Doing",
+          "blocked": false
+        }
+      ],
+      "historyComplete": true
+    },
+    {
+      "id": 1018,
+      "title": "Seguimiento de incidencias recurrentes · Portal",
+      "source": "Azure DevOps",
+      "type": "User Story",
+      "state": "Active",
+      "priority": 2,
+      "assignee": "María Torres",
+      "createdAt": "2026-08-31T00:00:00+00:00",
+      "changedAt": "2026-09-22T00:00:00+00:00",
+      "closedAt": null,
+      "waitingSince": null,
+      "responseTracked": true,
+      "dueAt": "2026-10-04T00:00:00+00:00",
+      "originalEstimate": 8,
+      "completedWork": 2,
+      "remainingWork": 4,
+      "tags": "demostración",
+      "url": null,
+      "stateChangedAt": "2026-08-31T00:00:00+00:00",
+      "history": [
+        {
+          "at": "2026-08-31T00:00:00+00:00",
+          "state": "New",
+          "column": "Backlog",
+          "blocked": false
+        },
+        {
+          "at": "2026-08-31T06:00:00+00:00",
+          "state": "Active",
+          "column": "Doing",
+          "blocked": false
+        }
+      ],
+      "historyComplete": true
+    },
+    {
+      "id": 1019,
+      "title": "Error al procesar pagos con tarjeta · API",
+      "source": "Azure DevOps",
+      "type": "Bug",
+      "state": "Closed",
+      "priority": 3,
+      "assignee": "Diego Silva",
+      "createdAt": "2026-08-24T00:00:00+00:00",
+      "changedAt": "2026-09-30T00:00:00+00:00",
+      "closedAt": "2026-08-29T00:00:00+00:00",
+      "waitingSince": null,
+      "responseTracked": true,
+      "dueAt": "2026-09-26T00:00:00+00:00",
+      "originalEstimate": 8,
+      "completedWork": 2,
+      "remainingWork": 4,
+      "tags": "demostración",
+      "url": null,
+      "stateChangedAt": "2026-08-24T00:00:00+00:00",
+      "history": [
+        {
+          "at": "2026-08-24T00:00:00+00:00",
+          "state": "New",
+          "column": "Backlog",
+          "blocked": false
+        },
+        {
+          "at": "2026-08-24T06:00:00+00:00",
+          "state": "Active",
+          "column": "Doing",
+          "blocked": false
+        },
+        {
+          "at": "2026-08-25T06:00:00+00:00",
+          "state": "Active",
+          "column": "Waiting",
+          "blocked": true
+        },
+        {
+          "at": "2026-08-26T06:00:00+00:00",
+          "state": "Active",
+          "column": "Doing",
+          "blocked": false
+        },
+        {
+          "at": "2026-08-29T00:00:00+00:00",
+          "state": "Closed",
+          "column": "Done",
+          "blocked": false
+        }
+      ],
+      "historyComplete": true
+    },
+    {
+      "id": 1020,
+      "title": "Restablecer acceso al portal · API",
+      "source": "Azure DevOps",
+      "type": "Task",
+      "state": "Active",
+      "priority": 4,
+      "assignee": null,
+      "createdAt": "2026-08-17T00:00:00+00:00",
+      "changedAt": "2026-09-29T00:00:00+00:00",
+      "closedAt": null,
+      "waitingSince": null,
+      "responseTracked": true,
+      "dueAt": "2026-09-27T00:00:00+00:00",
+      "originalEstimate": 8,
+      "completedWork": 2,
+      "remainingWork": 4,
+      "tags": "demostración",
+      "url": null,
+      "stateChangedAt": "2026-08-17T00:00:00+00:00",
+      "history": [
+        {
+          "at": "2026-08-17T00:00:00+00:00",
+          "state": "New",
+          "column": "Backlog",
+          "blocked": false
+        },
+        {
+          "at": "2026-08-17T06:00:00+00:00",
+          "state": "Active",
+          "column": "Doing",
+          "blocked": false
+        }
+      ],
+      "historyComplete": true
+    },
+    {
+      "id": 1021,
+      "title": "Notificaciones duplicadas por correo · API",
+      "source": "Azure DevOps",
+      "type": "Bug",
+      "state": "Closed",
+      "priority": 1,
+      "assignee": "Ana López",
+      "createdAt": "2026-09-24T00:00:00+00:00",
+      "changedAt": "2026-09-28T00:00:00+00:00",
+      "closedAt": "2026-09-30T00:00:00+00:00",
+      "waitingSince": null,
+      "responseTracked": true,
+      "dueAt": "2026-09-28T00:00:00+00:00",
+      "originalEstimate": 8,
+      "completedWork": 2,
+      "remainingWork": 4,
+      "tags": "demostración",
+      "url": null,
+      "stateChangedAt": "2026-09-24T00:00:00+00:00",
+      "history": [
+        {
+          "at": "2026-09-24T00:00:00+00:00",
+          "state": "New",
+          "column": "Backlog",
+          "blocked": false
+        },
+        {
+          "at": "2026-09-24T06:00:00+00:00",
+          "state": "Active",
+          "column": "Doing",
+          "blocked": false
+        },
+        {
+          "at": "2026-09-30T00:00:00+00:00",
+          "state": "Closed",
+          "column": "Done",
+          "blocked": false
+        }
+      ],
+      "historyComplete": true
+    },
+    {
+      "id": 1022,
+      "title": "Exportación de reportes incompleta · API",
+      "source": "Azure DevOps",
+      "type": "Bug",
+      "state": "New",
+      "priority": 2,
+      "assignee": "Carlos Ruiz",
+      "createdAt": "2026-09-17T00:00:00+00:00",
+      "changedAt": "2026-09-27T00:00:00+00:00",
+      "closedAt": null,
+      "waitingSince": "2026-09-26T12:00:00+00:00",
+      "responseTracked": true,
+      "dueAt": "2026-09-29T00:00:00+00:00",
+      "originalEstimate": 8,
+      "completedWork": 10,
+      "remainingWork": 4,
+      "tags": "demostración",
+      "url": null,
+      "stateChangedAt": "2026-09-17T00:00:00+00:00",
+      "history": [
+        {
+          "at": "2026-09-17T00:00:00+00:00",
+          "state": "New",
+          "column": "Backlog",
+          "blocked": false
+        }
+      ],
+      "historyComplete": true
+    },
+    {
+      "id": 1023,
+      "title": "Integración con directorio corporativo · API",
+      "source": "Azure DevOps",
+      "type": "Task",
+      "state": "Active",
+      "priority": 3,
+      "assignee": "María Torres",
+      "createdAt": "2026-09-10T00:00:00+00:00",
+      "changedAt": "2026-09-26T00:00:00+00:00",
+      "closedAt": null,
+      "waitingSince": null,
+      "responseTracked": true,
+      "dueAt": "2026-09-30T00:00:00+00:00",
+      "originalEstimate": 8,
+      "completedWork": 2,
+      "remainingWork": 4,
+      "tags": "demostración",
+      "url": null,
+      "stateChangedAt": "2026-09-10T00:00:00+00:00",
+      "history": [
+        {
+          "at": "2026-09-10T00:00:00+00:00",
+          "state": "New",
+          "column": "Backlog",
+          "blocked": false
+        },
+        {
+          "at": "2026-09-10T06:00:00+00:00",
+          "state": "Active",
+          "column": "Doing",
+          "blocked": false
+        }
+      ],
+      "historyComplete": true
+    },
+    {
+      "id": 1024,
+      "title": "Panel de permisos por equipo · API",
+      "source": "Azure DevOps",
+      "type": "User Story",
+      "state": "Closed",
+      "priority": 4,
+      "assignee": "Diego Silva",
+      "createdAt": "2026-09-03T00:00:00+00:00",
+      "changedAt": "2026-09-25T00:00:00+00:00",
+      "closedAt": "2026-09-13T00:00:00+00:00",
+      "waitingSince": null,
+      "responseTracked": true,
+      "dueAt": "2026-10-01T00:00:00+00:00",
+      "originalEstimate": 8,
+      "completedWork": 2,
+      "remainingWork": 4,
+      "tags": "demostración",
+      "url": null,
+      "stateChangedAt": "2026-09-03T00:00:00+00:00",
+      "history": [
+        {
+          "at": "2026-09-03T00:00:00+00:00",
+          "state": "New",
+          "column": "Backlog",
+          "blocked": false
+        },
+        {
+          "at": "2026-09-03T06:00:00+00:00",
+          "state": "Active",
+          "column": "Doing",
+          "blocked": false
+        },
+        {
+          "at": "2026-09-13T00:00:00+00:00",
+          "state": "Closed",
+          "column": "Done",
+          "blocked": false
+        }
+      ],
+      "historyComplete": true
+    },
+    {
+      "id": 1025,
+      "title": "Tiempo de espera en búsqueda · API",
+      "source": "Azure DevOps",
+      "type": "Bug",
+      "state": "New",
+      "priority": 1,
+      "assignee": null,
+      "createdAt": "2026-08-27T00:00:00+00:00",
+      "changedAt": "2026-09-24T00:00:00+00:00",
+      "closedAt": null,
+      "waitingSince": "2026-09-29T12:00:00+00:00",
+      "responseTracked": true,
+      "dueAt": "2026-10-02T00:00:00+00:00",
+      "originalEstimate": 8,
+      "completedWork": 2,
+      "remainingWork": 4,
+      "tags": "demostración",
+      "url": null,
+      "stateChangedAt": "2026-08-27T00:00:00+00:00",
+      "history": [
+        {
+          "at": "2026-08-27T00:00:00+00:00",
+          "state": "New",
+          "column": "Backlog",
+          "blocked": false
+        }
+      ],
+      "historyComplete": true
+    },
+    {
+      "id": 1026,
+      "title": "Actualizar documentación de API · API",
+      "source": "Azure DevOps",
+      "type": "Task",
+      "state": "Closed",
+      "priority": 2,
+      "assignee": "Ana López",
+      "createdAt": "2026-08-20T00:00:00+00:00",
+      "changedAt": "2026-09-23T00:00:00+00:00",
+      "closedAt": "2026-08-24T00:00:00+00:00",
+      "waitingSince": null,
+      "responseTracked": true,
+      "dueAt": "2026-10-03T00:00:00+00:00",
+      "originalEstimate": 8,
+      "completedWork": 2,
+      "remainingWork": 4,
+      "tags": "demostración",
+      "url": null,
+      "stateChangedAt": "2026-08-20T00:00:00+00:00",
+      "history": [
+        {
+          "at": "2026-08-20T00:00:00+00:00",
+          "state": "New",
+          "column": "Backlog",
+          "blocked": false
+        },
+        {
+          "at": "2026-08-20T06:00:00+00:00",
+          "state": "Active",
+          "column": "Doing",
+          "blocked": false
+        },
+        {
+          "at": "2026-08-24T00:00:00+00:00",
+          "state": "Closed",
+          "column": "Done",
+          "blocked": false
+        }
+      ],
+      "historyComplete": true
+    },
+    {
+      "id": 1027,
+      "title": "Validación de formularios móviles · API",
+      "source": "Azure DevOps",
+      "type": "User Story",
+      "state": "Active",
+      "priority": 3,
+      "assignee": "Carlos Ruiz",
+      "createdAt": "2026-09-27T00:00:00+00:00",
+      "changedAt": "2026-09-27T00:00:00+00:00",
+      "closedAt": null,
+      "waitingSince": null,
+      "responseTracked": true,
+      "dueAt": "2026-10-04T00:00:00+00:00",
+      "originalEstimate": 8,
+      "completedWork": 2,
+      "remainingWork": 4,
+      "tags": "demostración",
+      "url": null,
+      "stateChangedAt": "2026-09-27T00:00:00+00:00",
+      "history": [
+        {
+          "at": "2026-09-27T00:00:00+00:00",
+          "state": "New",
+          "column": "Backlog",
+          "blocked": false
+        },
+        {
+          "at": "2026-09-27T06:00:00+00:00",
+          "state": "Active",
+          "column": "Doing",
+          "blocked": false
+        }
+      ],
+      "historyComplete": true
+    },
+    {
+      "id": 1028,
+      "title": "Sincronización de inventario · API",
+      "source": "Azure DevOps",
+      "type": "Bug",
+      "state": "New",
+      "priority": 4,
+      "assignee": "María Torres",
+      "createdAt": "2026-09-20T00:00:00+00:00",
+      "changedAt": "2026-09-30T00:00:00+00:00",
+      "closedAt": null,
+      "waitingSince": "2026-09-26T12:00:00+00:00",
+      "responseTracked": true,
+      "dueAt": "2026-09-26T00:00:00+00:00",
+      "originalEstimate": 8,
+      "completedWork": 2,
+      "remainingWork": 4,
+      "tags": "demostración",
+      "url": null,
+      "stateChangedAt": "2026-09-20T00:00:00+00:00",
+      "history": [
+        {
+          "at": "2026-09-20T00:00:00+00:00",
+          "state": "New",
+          "column": "Backlog",
+          "blocked": false
+        }
+      ],
+      "historyComplete": true
+    },
+    {
+      "id": 1029,
+      "title": "Facturas con moneda incorrecta · API",
+      "source": "Azure DevOps",
+      "type": "Bug",
+      "state": "Closed",
+      "priority": 1,
+      "assignee": "Diego Silva",
+      "createdAt": "2026-09-13T00:00:00+00:00",
+      "changedAt": "2026-09-29T00:00:00+00:00",
+      "closedAt": "2026-09-20T00:00:00+00:00",
+      "waitingSince": null,
+      "responseTracked": true,
+      "dueAt": "2026-09-27T00:00:00+00:00",
+      "originalEstimate": 8,
+      "completedWork": 10,
+      "remainingWork": 4,
+      "tags": "demostración",
+      "url": null,
+      "stateChangedAt": "2026-09-13T00:00:00+00:00",
+      "history": [
+        {
+          "at": "2026-09-13T00:00:00+00:00",
+          "state": "New",
+          "column": "Backlog",
+          "blocked": false
+        },
+        {
+          "at": "2026-09-13T06:00:00+00:00",
+          "state": "Active",
+          "column": "Doing",
+          "blocked": false
+        },
+        {
+          "at": "2026-09-20T00:00:00+00:00",
+          "state": "Closed",
+          "column": "Done",
+          "blocked": false
+        }
+      ],
+      "historyComplete": true
+    },
+    {
+      "id": 1030,
+      "title": "Configurar alertas de disponibilidad · API",
+      "source": "Azure DevOps",
+      "type": "User Story",
+      "state": "Active",
+      "priority": 2,
+      "assignee": null,
+      "createdAt": "2026-09-06T00:00:00+00:00",
+      "changedAt": "2026-09-28T00:00:00+00:00",
+      "closedAt": null,
+      "waitingSince": null,
+      "responseTracked": true,
+      "dueAt": "2026-09-28T00:00:00+00:00",
+      "originalEstimate": 8,
+      "completedWork": 2,
+      "remainingWork": 4,
+      "tags": "demostración",
+      "url": null,
+      "stateChangedAt": "2026-09-06T00:00:00+00:00",
+      "history": [
+        {
+          "at": "2026-09-06T00:00:00+00:00",
+          "state": "New",
+          "column": "Backlog",
+          "blocked": false
+        },
+        {
+          "at": "2026-09-06T06:00:00+00:00",
+          "state": "Active",
+          "column": "Doing",
+          "blocked": false
+        }
+      ],
+      "historyComplete": true
+    },
+    {
+      "id": 1031,
+      "title": "Error al adjuntar archivos · API",
+      "source": "Azure DevOps",
+      "type": "Bug",
+      "state": "Closed",
+      "priority": 3,
+      "assignee": "Ana López",
+      "createdAt": "2026-08-30T00:00:00+00:00",
+      "changedAt": "2026-09-27T00:00:00+00:00",
+      "closedAt": "2026-09-08T00:00:00+00:00",
+      "waitingSince": null,
+      "responseTracked": true,
+      "dueAt": "2026-09-29T00:00:00+00:00",
+      "originalEstimate": 8,
+      "completedWork": 2,
+      "remainingWork": 4,
+      "tags": "demostración",
+      "url": null,
+      "stateChangedAt": "2026-08-30T00:00:00+00:00",
+      "history": [
+        {
+          "at": "2026-08-30T00:00:00+00:00",
+          "state": "New",
+          "column": "Backlog",
+          "blocked": false
+        },
+        {
+          "at": "2026-08-30T06:00:00+00:00",
+          "state": "Active",
+          "column": "Doing",
+          "blocked": false
+        },
+        {
+          "at": "2026-08-31T06:00:00+00:00",
+          "state": "Active",
+          "column": "Waiting",
+          "blocked": true
+        },
+        {
+          "at": "2026-09-01T06:00:00+00:00",
+          "state": "Active",
+          "column": "Doing",
+          "blocked": false
+        },
+        {
+          "at": "2026-09-08T00:00:00+00:00",
+          "state": "Closed",
+          "column": "Done",
+          "blocked": false
+        }
+      ],
+      "historyComplete": true
+    },
+    {
+      "id": 1032,
+      "title": "Optimizar consulta de historial · API",
+      "source": "Azure DevOps",
+      "type": "Task",
+      "state": "Active",
+      "priority": 4,
+      "assignee": "Carlos Ruiz",
+      "createdAt": "2026-08-23T00:00:00+00:00",
+      "changedAt": "2026-09-26T00:00:00+00:00",
+      "closedAt": null,
+      "waitingSince": null,
+      "responseTracked": true,
+      "dueAt": "2026-09-30T00:00:00+00:00",
+      "originalEstimate": 8,
+      "completedWork": 2,
+      "remainingWork": 4,
+      "tags": "demostración",
+      "url": null,
+      "stateChangedAt": "2026-08-23T00:00:00+00:00",
+      "history": [
+        {
+          "at": "2026-08-23T00:00:00+00:00",
+          "state": "New",
+          "column": "Backlog",
+          "blocked": false
+        },
+        {
+          "at": "2026-08-23T06:00:00+00:00",
+          "state": "Active",
+          "column": "Doing",
+          "blocked": false
+        }
+      ],
+      "historyComplete": true
+    },
+    {
+      "id": 1033,
+      "title": "Solicitud de acceso al entorno QA · API",
+      "source": "Azure DevOps",
+      "type": "Bug",
+      "state": "Active",
+      "priority": 1,
+      "assignee": "María Torres",
+      "createdAt": "2026-08-16T00:00:00+00:00",
+      "changedAt": "2026-09-25T00:00:00+00:00",
+      "closedAt": null,
+      "waitingSince": null,
+      "responseTracked": true,
+      "dueAt": "2026-10-01T00:00:00+00:00",
+      "originalEstimate": 8,
+      "completedWork": 2,
+      "remainingWork": 4,
+      "tags": "demostración",
+      "url": null,
+      "stateChangedAt": "2026-08-16T00:00:00+00:00",
+      "history": [
+        {
+          "at": "2026-08-16T00:00:00+00:00",
+          "state": "New",
+          "column": "Backlog",
+          "blocked": false
+        },
+        {
+          "at": "2026-08-16T06:00:00+00:00",
+          "state": "Active",
+          "column": "Doing",
+          "blocked": false
+        }
+      ],
+      "historyComplete": true
+    },
+    {
+      "id": 1034,
+      "title": "Pruebas de regresión del checkout · API",
+      "source": "Azure DevOps",
+      "type": "Bug",
+      "state": "Closed",
+      "priority": 2,
+      "assignee": "Diego Silva",
+      "createdAt": "2026-09-23T00:00:00+00:00",
+      "changedAt": "2026-09-24T00:00:00+00:00",
+      "closedAt": "2026-09-27T00:00:00+00:00",
+      "waitingSince": null,
+      "responseTracked": true,
+      "dueAt": "2026-10-02T00:00:00+00:00",
+      "originalEstimate": 8,
+      "completedWork": 2,
+      "remainingWork": 4,
+      "tags": "demostración",
+      "url": null,
+      "stateChangedAt": "2026-09-23T00:00:00+00:00",
+      "history": [
+        {
+          "at": "2026-09-23T00:00:00+00:00",
+          "state": "New",
+          "column": "Backlog",
+          "blocked": false
+        },
+        {
+          "at": "2026-09-23T06:00:00+00:00",
+          "state": "Active",
+          "column": "Doing",
+          "blocked": false
+        },
+        {
+          "at": "2026-09-24T06:00:00+00:00",
+          "state": "Active",
+          "column": "Waiting",
+          "blocked": true
+        },
+        {
+          "at": "2026-09-25T06:00:00+00:00",
+          "state": "Active",
+          "column": "Doing",
+          "blocked": false
+        },
+        {
+          "at": "2026-09-27T00:00:00+00:00",
+          "state": "Closed",
+          "column": "Done",
+          "blocked": false
+        }
+      ],
+      "historyComplete": true
+    },
+    {
+      "id": 1035,
+      "title": "Revisión de dependencias · API",
+      "source": "Azure DevOps",
+      "type": "Task",
+      "state": "Active",
+      "priority": 3,
+      "assignee": null,
+      "createdAt": "2026-09-16T00:00:00+00:00",
+      "changedAt": "2026-09-23T00:00:00+00:00",
+      "closedAt": null,
+      "waitingSince": null,
+      "responseTracked": true,
+      "dueAt": "2026-10-03T00:00:00+00:00",
+      "originalEstimate": 8,
+      "completedWork": 2,
+      "remainingWork": 4,
+      "tags": "demostración",
+      "url": null,
+      "stateChangedAt": "2026-09-16T00:00:00+00:00",
+      "history": [
+        {
+          "at": "2026-09-16T00:00:00+00:00",
+          "state": "New",
+          "column": "Backlog",
+          "blocked": false
+        },
+        {
+          "at": "2026-09-16T06:00:00+00:00",
+          "state": "Active",
+          "column": "Doing",
+          "blocked": false
+        }
+      ],
+      "historyComplete": true
+    },
+    {
+      "id": 1036,
+      "title": "Seguimiento de incidencias recurrentes · API",
+      "source": "Azure DevOps",
+      "type": "User Story",
+      "state": "Closed",
+      "priority": 4,
+      "assignee": "Ana López",
+      "createdAt": "2026-09-09T00:00:00+00:00",
+      "changedAt": "2026-09-22T00:00:00+00:00",
+      "closedAt": "2026-09-15T00:00:00+00:00",
+      "waitingSince": null,
+      "responseTracked": true,
+      "dueAt": "2026-10-04T00:00:00+00:00",
+      "originalEstimate": 8,
+      "completedWork": 10,
+      "remainingWork": 4,
+      "tags": "demostración",
+      "url": null,
+      "stateChangedAt": "2026-09-09T00:00:00+00:00",
+      "history": [
+        {
+          "at": "2026-09-09T00:00:00+00:00",
+          "state": "New",
+          "column": "Backlog",
+          "blocked": false
+        },
+        {
+          "at": "2026-09-09T06:00:00+00:00",
+          "state": "Active",
+          "column": "Doing",
+          "blocked": false
+        },
+        {
+          "at": "2026-09-15T00:00:00+00:00",
+          "state": "Closed",
+          "column": "Done",
+          "blocked": false
+        }
+      ],
+      "historyComplete": true
+    },
+    {
+      "id": 1037,
+      "title": "Error al procesar pagos con tarjeta · Móvil",
+      "source": "Azure DevOps",
+      "type": "Bug",
+      "state": "New",
+      "priority": 1,
+      "assignee": "Carlos Ruiz",
+      "createdAt": "2026-09-02T00:00:00+00:00",
+      "changedAt": "2026-09-30T00:00:00+00:00",
+      "closedAt": null,
+      "waitingSince": "2026-09-29T12:00:00+00:00",
+      "responseTracked": true,
+      "dueAt": "2026-09-26T00:00:00+00:00",
+      "originalEstimate": 8,
+      "completedWork": 2,
+      "remainingWork": 4,
+      "tags": "demostración",
+      "url": null,
+      "stateChangedAt": "2026-09-02T00:00:00+00:00",
+      "history": [
+        {
+          "at": "2026-09-02T00:00:00+00:00",
+          "state": "New",
+          "column": "Backlog",
+          "blocked": false
+        }
+      ],
+      "historyComplete": true
+    },
+    {
+      "id": 1038,
+      "title": "Restablecer acceso al portal · Móvil",
+      "source": "Azure DevOps",
+      "type": "Task",
+      "state": "Active",
+      "priority": 2,
+      "assignee": "María Torres",
+      "createdAt": "2026-08-26T00:00:00+00:00",
+      "changedAt": "2026-09-29T00:00:00+00:00",
+      "closedAt": null,
+      "waitingSince": null,
+      "responseTracked": true,
+      "dueAt": "2026-09-27T00:00:00+00:00",
+      "originalEstimate": 8,
+      "completedWork": 2,
+      "remainingWork": 4,
+      "tags": "demostración",
+      "url": null,
+      "stateChangedAt": "2026-08-26T00:00:00+00:00",
+      "history": [
+        {
+          "at": "2026-08-26T00:00:00+00:00",
+          "state": "New",
+          "column": "Backlog",
+          "blocked": false
+        },
+        {
+          "at": "2026-08-26T06:00:00+00:00",
+          "state": "Active",
+          "column": "Doing",
+          "blocked": false
+        }
+      ],
+      "historyComplete": true
+    },
+    {
+      "id": 1039,
+      "title": "Notificaciones duplicadas por correo · Móvil",
+      "source": "Azure DevOps",
+      "type": "User Story",
+      "state": "Closed",
+      "priority": 3,
+      "assignee": "Diego Silva",
+      "createdAt": "2026-08-19T00:00:00+00:00",
+      "changedAt": "2026-09-28T00:00:00+00:00",
+      "closedAt": "2026-08-28T00:00:00+00:00",
+      "waitingSince": null,
+      "responseTracked": true,
+      "dueAt": "2026-09-28T00:00:00+00:00",
+      "originalEstimate": 8,
+      "completedWork": 2,
+      "remainingWork": 4,
+      "tags": "demostración",
+      "url": null,
+      "stateChangedAt": "2026-08-19T00:00:00+00:00",
+      "history": [
+        {
+          "at": "2026-08-19T00:00:00+00:00",
+          "state": "New",
+          "column": "Backlog",
+          "blocked": false
+        },
+        {
+          "at": "2026-08-19T06:00:00+00:00",
+          "state": "Active",
+          "column": "Doing",
+          "blocked": false
+        },
+        {
+          "at": "2026-08-28T00:00:00+00:00",
+          "state": "Closed",
+          "column": "Done",
+          "blocked": false
+        }
+      ],
+      "historyComplete": true
+    },
+    {
+      "id": 1040,
+      "title": "Exportación de reportes incompleta · Móvil",
+      "source": "Azure DevOps",
+      "type": "Bug",
+      "state": "New",
+      "priority": 4,
+      "assignee": null,
+      "createdAt": "2026-09-26T00:00:00+00:00",
+      "changedAt": "2026-09-27T00:00:00+00:00",
+      "closedAt": null,
+      "waitingSince": "2026-09-26T12:00:00+00:00",
+      "responseTracked": true,
+      "dueAt": "2026-09-29T00:00:00+00:00",
+      "originalEstimate": 8,
+      "completedWork": 2,
+      "remainingWork": 4,
+      "tags": "demostración",
+      "url": null,
+      "stateChangedAt": "2026-09-26T00:00:00+00:00",
+      "history": [
+        {
+          "at": "2026-09-26T00:00:00+00:00",
+          "state": "New",
+          "column": "Backlog",
+          "blocked": false
+        }
+      ],
+      "historyComplete": true
+    },
+    {
+      "id": 1041,
+      "title": "Integración con directorio corporativo · Móvil",
+      "source": "Azure DevOps",
+      "type": "Bug",
+      "state": "Closed",
+      "priority": 1,
+      "assignee": "Ana López",
+      "createdAt": "2026-09-19T00:00:00+00:00",
+      "changedAt": "2026-09-26T00:00:00+00:00",
+      "closedAt": "2026-09-22T00:00:00+00:00",
+      "waitingSince": null,
+      "responseTracked": true,
+      "dueAt": "2026-09-30T00:00:00+00:00",
+      "originalEstimate": 8,
+      "completedWork": 2,
+      "remainingWork": 4,
+      "tags": "demostración",
+      "url": null,
+      "stateChangedAt": "2026-09-19T00:00:00+00:00",
+      "history": [
+        {
+          "at": "2026-09-19T00:00:00+00:00",
+          "state": "New",
+          "column": "Backlog",
+          "blocked": false
+        },
+        {
+          "at": "2026-09-19T06:00:00+00:00",
+          "state": "Active",
+          "column": "Doing",
+          "blocked": false
+        },
+        {
+          "at": "2026-09-22T00:00:00+00:00",
+          "state": "Closed",
+          "column": "Done",
+          "blocked": false
+        }
+      ],
+      "historyComplete": true
+    },
+    {
+      "id": 1042,
+      "title": "Panel de permisos por equipo · Móvil",
+      "source": "Azure DevOps",
+      "type": "User Story",
+      "state": "Active",
+      "priority": 2,
+      "assignee": "Carlos Ruiz",
+      "createdAt": "2026-09-12T00:00:00+00:00",
+      "changedAt": "2026-09-25T00:00:00+00:00",
+      "closedAt": null,
+      "waitingSince": null,
+      "responseTracked": true,
+      "dueAt": "2026-10-01T00:00:00+00:00",
+      "originalEstimate": 8,
+      "completedWork": 2,
+      "remainingWork": 4,
+      "tags": "demostración",
+      "url": null,
+      "stateChangedAt": "2026-09-12T00:00:00+00:00",
+      "history": [
+        {
+          "at": "2026-09-12T00:00:00+00:00",
+          "state": "New",
+          "column": "Backlog",
+          "blocked": false
+        },
+        {
+          "at": "2026-09-12T06:00:00+00:00",
+          "state": "Active",
+          "column": "Doing",
+          "blocked": false
+        }
+      ],
+      "historyComplete": true
+    },
+    {
+      "id": 1043,
+      "title": "Tiempo de espera en búsqueda · Móvil",
+      "source": "Azure DevOps",
+      "type": "Bug",
+      "state": "New",
+      "priority": 3,
+      "assignee": "María Torres",
+      "createdAt": "2026-09-05T00:00:00+00:00",
+      "changedAt": "2026-09-24T00:00:00+00:00",
+      "closedAt": null,
+      "waitingSince": "2026-09-29T12:00:00+00:00",
+      "responseTracked": true,
+      "dueAt": "2026-10-02T00:00:00+00:00",
+      "originalEstimate": 8,
+      "completedWork": 10,
+      "remainingWork": 4,
+      "tags": "demostración",
+      "url": null,
+      "stateChangedAt": "2026-09-05T00:00:00+00:00",
+      "history": [
+        {
+          "at": "2026-09-05T00:00:00+00:00",
+          "state": "New",
+          "column": "Backlog",
+          "blocked": false
+        }
+      ],
+      "historyComplete": true
+    },
+    {
+      "id": 1044,
+      "title": "Actualizar documentación de API · Móvil",
+      "source": "Azure DevOps",
+      "type": "Task",
+      "state": "Closed",
+      "priority": 4,
+      "assignee": "Diego Silva",
+      "createdAt": "2026-08-29T00:00:00+00:00",
+      "changedAt": "2026-09-23T00:00:00+00:00",
+      "closedAt": "2026-09-04T00:00:00+00:00",
+      "waitingSince": null,
+      "responseTracked": true,
+      "dueAt": "2026-10-03T00:00:00+00:00",
+      "originalEstimate": 8,
+      "completedWork": 2,
+      "remainingWork": 4,
+      "tags": "demostración",
+      "url": null,
+      "stateChangedAt": "2026-08-29T00:00:00+00:00",
+      "history": [
+        {
+          "at": "2026-08-29T00:00:00+00:00",
+          "state": "New",
+          "column": "Backlog",
+          "blocked": false
+        },
+        {
+          "at": "2026-08-29T06:00:00+00:00",
+          "state": "Active",
+          "column": "Doing",
+          "blocked": false
+        },
+        {
+          "at": "2026-09-04T00:00:00+00:00",
+          "state": "Closed",
+          "column": "Done",
+          "blocked": false
+        }
+      ],
+      "historyComplete": true
+    },
+    {
+      "id": 1045,
+      "title": "Validación de formularios móviles · Móvil",
+      "source": "Azure DevOps",
+      "type": "Bug",
+      "state": "Active",
+      "priority": 1,
+      "assignee": null,
+      "createdAt": "2026-08-22T00:00:00+00:00",
+      "changedAt": "2026-09-22T00:00:00+00:00",
+      "closedAt": null,
+      "waitingSince": null,
+      "responseTracked": true,
+      "dueAt": "2026-10-04T00:00:00+00:00",
+      "originalEstimate": 8,
+      "completedWork": 2,
+      "remainingWork": 4,
+      "tags": "demostración",
+      "url": null,
+      "stateChangedAt": "2026-08-22T00:00:00+00:00",
+      "history": [
+        {
+          "at": "2026-08-22T00:00:00+00:00",
+          "state": "New",
+          "column": "Backlog",
+          "blocked": false
+        },
+        {
+          "at": "2026-08-22T06:00:00+00:00",
+          "state": "Active",
+          "column": "Doing",
+          "blocked": false
+        }
+      ],
+      "historyComplete": true
+    },
+    {
+      "id": 1046,
+      "title": "Sincronización de inventario · Móvil",
+      "source": "Azure DevOps",
+      "type": "Bug",
+      "state": "Closed",
+      "priority": 2,
+      "assignee": "Ana López",
+      "createdAt": "2026-09-29T00:00:00+00:00",
+      "changedAt": "2026-09-30T00:00:00+00:00",
+      "closedAt": "2026-09-30T00:00:00+00:00",
+      "waitingSince": null,
+      "responseTracked": true,
+      "dueAt": "2026-09-26T00:00:00+00:00",
+      "originalEstimate": 8,
+      "completedWork": 2,
+      "remainingWork": 4,
+      "tags": "demostración",
+      "url": null,
+      "stateChangedAt": "2026-09-29T00:00:00+00:00",
+      "history": [
+        {
+          "at": "2026-09-29T00:00:00+00:00",
+          "state": "New",
+          "column": "Backlog",
+          "blocked": false
+        },
+        {
+          "at": "2026-09-29T06:00:00+00:00",
+          "state": "Active",
+          "column": "Doing",
+          "blocked": false
+        },
+        {
+          "at": "2026-09-30T00:00:00+00:00",
+          "state": "Closed",
+          "column": "Done",
+          "blocked": false
+        }
+      ],
+      "historyComplete": true
+    },
+    {
+      "id": 1047,
+      "title": "Facturas con moneda incorrecta · Móvil",
+      "source": "Azure DevOps",
+      "type": "Task",
+      "state": "Active",
+      "priority": 3,
+      "assignee": "Carlos Ruiz",
+      "createdAt": "2026-09-22T00:00:00+00:00",
+      "changedAt": "2026-09-29T00:00:00+00:00",
+      "closedAt": null,
+      "waitingSince": null,
+      "responseTracked": true,
+      "dueAt": "2026-09-27T00:00:00+00:00",
+      "originalEstimate": 8,
+      "completedWork": 2,
+      "remainingWork": 4,
+      "tags": "demostración",
+      "url": null,
+      "stateChangedAt": "2026-09-22T00:00:00+00:00",
+      "history": [
+        {
+          "at": "2026-09-22T00:00:00+00:00",
+          "state": "New",
+          "column": "Backlog",
+          "blocked": false
+        },
+        {
+          "at": "2026-09-22T06:00:00+00:00",
+          "state": "Active",
+          "column": "Doing",
+          "blocked": false
+        }
+      ],
+      "historyComplete": true
+    },
+    {
+      "id": 1048,
+      "title": "Configurar alertas de disponibilidad · Móvil",
+      "source": "Azure DevOps",
+      "type": "User Story",
+      "state": "Active",
+      "priority": 4,
+      "assignee": "María Torres",
+      "createdAt": "2026-09-15T00:00:00+00:00",
+      "changedAt": "2026-09-28T00:00:00+00:00",
+      "closedAt": null,
+      "waitingSince": null,
+      "responseTracked": true,
+      "dueAt": "2026-09-28T00:00:00+00:00",
+      "originalEstimate": 8,
+      "completedWork": 2,
+      "remainingWork": 4,
+      "tags": "demostración",
+      "url": null,
+      "stateChangedAt": "2026-09-15T00:00:00+00:00",
+      "history": [
+        {
+          "at": "2026-09-15T00:00:00+00:00",
+          "state": "New",
+          "column": "Backlog",
+          "blocked": false
+        },
+        {
+          "at": "2026-09-15T06:00:00+00:00",
+          "state": "Active",
+          "column": "Doing",
+          "blocked": false
+        }
+      ],
+      "historyComplete": true
+    },
+    {
+      "id": 1049,
+      "title": "Error al adjuntar archivos · Móvil",
+      "source": "Azure DevOps",
+      "type": "Bug",
+      "state": "Closed",
+      "priority": 1,
+      "assignee": "Diego Silva",
+      "createdAt": "2026-09-08T00:00:00+00:00",
+      "changedAt": "2026-09-27T00:00:00+00:00",
+      "closedAt": "2026-09-11T00:00:00+00:00",
+      "waitingSince": null,
+      "responseTracked": true,
+      "dueAt": "2026-09-29T00:00:00+00:00",
+      "originalEstimate": 8,
+      "completedWork": 2,
+      "remainingWork": 4,
+      "tags": "demostración",
+      "url": null,
+      "stateChangedAt": "2026-09-08T00:00:00+00:00",
+      "history": [
+        {
+          "at": "2026-09-08T00:00:00+00:00",
+          "state": "New",
+          "column": "Backlog",
+          "blocked": false
+        },
+        {
+          "at": "2026-09-08T06:00:00+00:00",
+          "state": "Active",
+          "column": "Doing",
+          "blocked": false
+        },
+        {
+          "at": "2026-09-09T06:00:00+00:00",
+          "state": "Active",
+          "column": "Waiting",
+          "blocked": true
+        },
+        {
+          "at": "2026-09-10T06:00:00+00:00",
+          "state": "Active",
+          "column": "Doing",
+          "blocked": false
+        },
+        {
+          "at": "2026-09-11T00:00:00+00:00",
+          "state": "Closed",
+          "column": "Done",
+          "blocked": false
+        }
+      ],
+      "historyComplete": true
+    },
+    {
+      "id": 1050,
+      "title": "Optimizar consulta de historial · Móvil",
+      "source": "Azure DevOps",
+      "type": "Task",
+      "state": "Active",
+      "priority": 2,
+      "assignee": null,
+      "createdAt": "2026-09-01T00:00:00+00:00",
+      "changedAt": "2026-09-26T00:00:00+00:00",
+      "closedAt": null,
+      "waitingSince": null,
+      "responseTracked": true,
+      "dueAt": "2026-09-30T00:00:00+00:00",
+      "originalEstimate": 8,
+      "completedWork": 10,
+      "remainingWork": 4,
+      "tags": "demostración",
+      "url": null,
+      "stateChangedAt": "2026-09-01T00:00:00+00:00",
+      "history": [
+        {
+          "at": "2026-09-01T00:00:00+00:00",
+          "state": "New",
+          "column": "Backlog",
+          "blocked": false
+        },
+        {
+          "at": "2026-09-01T06:00:00+00:00",
+          "state": "Active",
+          "column": "Doing",
+          "blocked": false
+        }
+      ],
+      "historyComplete": true
+    },
+    {
+      "id": 1051,
+      "title": "Solicitud de acceso al entorno QA · Móvil",
+      "source": "Azure DevOps",
+      "type": "User Story",
+      "state": "Closed",
+      "priority": 3,
+      "assignee": "Ana López",
+      "createdAt": "2026-08-25T00:00:00+00:00",
+      "changedAt": "2026-09-25T00:00:00+00:00",
+      "closedAt": "2026-08-30T00:00:00+00:00",
+      "waitingSince": null,
+      "responseTracked": true,
+      "dueAt": "2026-10-01T00:00:00+00:00",
+      "originalEstimate": 8,
+      "completedWork": 2,
+      "remainingWork": 4,
+      "tags": "demostración",
+      "url": null,
+      "stateChangedAt": "2026-08-25T00:00:00+00:00",
+      "history": [
+        {
+          "at": "2026-08-25T00:00:00+00:00",
+          "state": "New",
+          "column": "Backlog",
+          "blocked": false
+        },
+        {
+          "at": "2026-08-25T06:00:00+00:00",
+          "state": "Active",
+          "column": "Doing",
+          "blocked": false
+        },
+        {
+          "at": "2026-08-30T00:00:00+00:00",
+          "state": "Closed",
+          "column": "Done",
+          "blocked": false
+        }
+      ],
+      "historyComplete": true
+    },
+    {
+      "id": 1052,
+      "title": "Pruebas de regresión del checkout · Móvil",
+      "source": "Azure DevOps",
+      "type": "Bug",
+      "state": "New",
+      "priority": 4,
+      "assignee": "Carlos Ruiz",
+      "createdAt": "2026-08-18T00:00:00+00:00",
+      "changedAt": "2026-09-24T00:00:00+00:00",
+      "closedAt": null,
+      "waitingSince": "2026-09-26T12:00:00+00:00",
+      "responseTracked": true,
+      "dueAt": "2026-10-02T00:00:00+00:00",
+      "originalEstimate": 8,
+      "completedWork": 2,
+      "remainingWork": 4,
+      "tags": "demostración",
+      "url": null,
+      "stateChangedAt": "2026-08-18T00:00:00+00:00",
+      "history": [
+        {
+          "at": "2026-08-18T00:00:00+00:00",
+          "state": "New",
+          "column": "Backlog",
+          "blocked": false
+        }
+      ],
+      "historyComplete": true
+    },
+    {
+      "id": 1053,
+      "title": "Revisión de dependencias · Móvil",
+      "source": "Azure DevOps",
+      "type": "Bug",
+      "state": "Active",
+      "priority": 1,
+      "assignee": "María Torres",
+      "createdAt": "2026-09-25T00:00:00+00:00",
+      "changedAt": "2026-09-25T00:00:00+00:00",
+      "closedAt": null,
+      "waitingSince": null,
+      "responseTracked": true,
+      "dueAt": "2026-10-03T00:00:00+00:00",
+      "originalEstimate": 8,
+      "completedWork": 2,
+      "remainingWork": 4,
+      "tags": "demostración",
+      "url": null,
+      "stateChangedAt": "2026-09-25T00:00:00+00:00",
+      "history": [
+        {
+          "at": "2026-09-25T00:00:00+00:00",
+          "state": "New",
+          "column": "Backlog",
+          "blocked": false
+        },
+        {
+          "at": "2026-09-25T06:00:00+00:00",
+          "state": "Active",
+          "column": "Doing",
+          "blocked": false
+        }
+      ],
+      "historyComplete": true
+    },
+    {
+      "id": 1054,
+      "title": "Seguimiento de incidencias recurrentes · Móvil",
+      "source": "Azure DevOps",
+      "type": "User Story",
+      "state": "Closed",
+      "priority": 2,
+      "assignee": "Diego Silva",
+      "createdAt": "2026-09-18T00:00:00+00:00",
+      "changedAt": "2026-09-22T00:00:00+00:00",
+      "closedAt": "2026-09-26T00:00:00+00:00",
+      "waitingSince": null,
+      "responseTracked": true,
+      "dueAt": "2026-10-04T00:00:00+00:00",
+      "originalEstimate": 8,
+      "completedWork": 2,
+      "remainingWork": 4,
+      "tags": "demostración",
+      "url": null,
+      "stateChangedAt": "2026-09-18T00:00:00+00:00",
+      "history": [
+        {
+          "at": "2026-09-18T00:00:00+00:00",
+          "state": "New",
+          "column": "Backlog",
+          "blocked": false
+        },
+        {
+          "at": "2026-09-18T06:00:00+00:00",
+          "state": "Active",
+          "column": "Doing",
+          "blocked": false
+        },
+        {
+          "at": "2026-09-26T00:00:00+00:00",
+          "state": "Closed",
+          "column": "Done",
+          "blocked": false
+        }
+      ],
+      "historyComplete": true
+    },
+    {
+      "id": 1055,
+      "title": "Error al procesar pagos con tarjeta · Operaciones",
+      "source": "Azure DevOps",
+      "type": "Bug",
+      "state": "New",
+      "priority": 3,
+      "assignee": null,
+      "createdAt": "2026-09-11T00:00:00+00:00",
+      "changedAt": "2026-09-30T00:00:00+00:00",
+      "closedAt": null,
+      "waitingSince": "2026-09-29T12:00:00+00:00",
+      "responseTracked": true,
+      "dueAt": "2026-09-26T00:00:00+00:00",
+      "originalEstimate": 8,
+      "completedWork": 2,
+      "remainingWork": 4,
+      "tags": "demostración",
+      "url": null,
+      "stateChangedAt": "2026-09-11T00:00:00+00:00",
+      "history": [
+        {
+          "at": "2026-09-11T00:00:00+00:00",
+          "state": "New",
+          "column": "Backlog",
+          "blocked": false
+        }
+      ],
+      "historyComplete": true
+    },
+    {
+      "id": 1056,
+      "title": "Restablecer acceso al portal · Operaciones",
+      "source": "Azure DevOps",
+      "type": "Task",
+      "state": "Closed",
+      "priority": 4,
+      "assignee": "Ana López",
+      "createdAt": "2026-09-04T00:00:00+00:00",
+      "changedAt": "2026-09-29T00:00:00+00:00",
+      "closedAt": "2026-09-14T00:00:00+00:00",
+      "waitingSince": null,
+      "responseTracked": true,
+      "dueAt": "2026-09-27T00:00:00+00:00",
+      "originalEstimate": 8,
+      "completedWork": 2,
+      "remainingWork": 4,
+      "tags": "demostración",
+      "url": null,
+      "stateChangedAt": "2026-09-04T00:00:00+00:00",
+      "history": [
+        {
+          "at": "2026-09-04T00:00:00+00:00",
+          "state": "New",
+          "column": "Backlog",
+          "blocked": false
+        },
+        {
+          "at": "2026-09-04T06:00:00+00:00",
+          "state": "Active",
+          "column": "Doing",
+          "blocked": false
+        },
+        {
+          "at": "2026-09-14T00:00:00+00:00",
+          "state": "Closed",
+          "column": "Done",
+          "blocked": false
+        }
+      ],
+      "historyComplete": true
+    },
+    {
+      "id": 1057,
+      "title": "Notificaciones duplicadas por correo · Operaciones",
+      "source": "Azure DevOps",
+      "type": "Bug",
+      "state": "Active",
+      "priority": 1,
+      "assignee": "Carlos Ruiz",
+      "createdAt": "2026-08-28T00:00:00+00:00",
+      "changedAt": "2026-09-28T00:00:00+00:00",
+      "closedAt": null,
+      "waitingSince": null,
+      "responseTracked": true,
+      "dueAt": "2026-09-28T00:00:00+00:00",
+      "originalEstimate": 8,
+      "completedWork": 10,
+      "remainingWork": 4,
+      "tags": "demostración",
+      "url": null,
+      "stateChangedAt": "2026-08-28T00:00:00+00:00",
+      "history": [
+        {
+          "at": "2026-08-28T00:00:00+00:00",
+          "state": "New",
+          "column": "Backlog",
+          "blocked": false
+        },
+        {
+          "at": "2026-08-28T06:00:00+00:00",
+          "state": "Active",
+          "column": "Doing",
+          "blocked": false
+        }
+      ],
+      "historyComplete": true
+    },
+    {
+      "id": 1058,
+      "title": "Exportación de reportes incompleta · Operaciones",
+      "source": "Azure DevOps",
+      "type": "Bug",
+      "state": "New",
+      "priority": 2,
+      "assignee": "María Torres",
+      "createdAt": "2026-08-21T00:00:00+00:00",
+      "changedAt": "2026-09-27T00:00:00+00:00",
+      "closedAt": null,
+      "waitingSince": "2026-09-26T12:00:00+00:00",
+      "responseTracked": true,
+      "dueAt": "2026-09-29T00:00:00+00:00",
+      "originalEstimate": 8,
+      "completedWork": 2,
+      "remainingWork": 4,
+      "tags": "demostración",
+      "url": null,
+      "stateChangedAt": "2026-08-21T00:00:00+00:00",
+      "history": [
+        {
+          "at": "2026-08-21T00:00:00+00:00",
+          "state": "New",
+          "column": "Backlog",
+          "blocked": false
+        }
+      ],
+      "historyComplete": true
+    },
+    {
+      "id": 1059,
+      "title": "Integración con directorio corporativo · Operaciones",
+      "source": "Azure DevOps",
+      "type": "Task",
+      "state": "Closed",
+      "priority": 3,
+      "assignee": "Diego Silva",
+      "createdAt": "2026-09-28T00:00:00+00:00",
+      "changedAt": "2026-09-28T00:00:00+00:00",
+      "closedAt": "2026-09-30T00:00:00+00:00",
+      "waitingSince": null,
+      "responseTracked": true,
+      "dueAt": "2026-09-30T00:00:00+00:00",
+      "originalEstimate": 8,
+      "completedWork": 2,
+      "remainingWork": 4,
+      "tags": "demostración",
+      "url": null,
+      "stateChangedAt": "2026-09-28T00:00:00+00:00",
+      "history": [
+        {
+          "at": "2026-09-28T00:00:00+00:00",
+          "state": "New",
+          "column": "Backlog",
+          "blocked": false
+        },
+        {
+          "at": "2026-09-28T06:00:00+00:00",
+          "state": "Active",
+          "column": "Doing",
+          "blocked": false
+        },
+        {
+          "at": "2026-09-30T00:00:00+00:00",
+          "state": "Closed",
+          "column": "Done",
+          "blocked": false
+        }
+      ],
+      "historyComplete": true
+    },
+    {
+      "id": 1060,
+      "title": "Panel de permisos por equipo · Operaciones",
+      "source": "Azure DevOps",
+      "type": "User Story",
+      "state": "Active",
+      "priority": 4,
+      "assignee": null,
+      "createdAt": "2026-09-21T00:00:00+00:00",
+      "changedAt": "2026-09-25T00:00:00+00:00",
+      "closedAt": null,
+      "waitingSince": null,
+      "responseTracked": true,
+      "dueAt": "2026-10-01T00:00:00+00:00",
+      "originalEstimate": 8,
+      "completedWork": 2,
+      "remainingWork": 4,
+      "tags": "demostración",
+      "url": null,
+      "stateChangedAt": "2026-09-21T00:00:00+00:00",
+      "history": [
+        {
+          "at": "2026-09-21T00:00:00+00:00",
+          "state": "New",
+          "column": "Backlog",
+          "blocked": false
+        },
+        {
+          "at": "2026-09-21T06:00:00+00:00",
+          "state": "Active",
+          "column": "Doing",
+          "blocked": false
+        }
+      ],
+      "historyComplete": true
+    },
+    {
+      "id": 1061,
+      "title": "Tiempo de espera en búsqueda · Operaciones",
+      "source": "Azure DevOps",
+      "type": "Bug",
+      "state": "Closed",
+      "priority": 1,
+      "assignee": "Ana López",
+      "createdAt": "2026-09-14T00:00:00+00:00",
+      "changedAt": "2026-09-24T00:00:00+00:00",
+      "closedAt": "2026-09-21T00:00:00+00:00",
+      "waitingSince": null,
+      "responseTracked": true,
+      "dueAt": "2026-10-02T00:00:00+00:00",
+      "originalEstimate": 8,
+      "completedWork": 2,
+      "remainingWork": 4,
+      "tags": "demostración",
+      "url": null,
+      "stateChangedAt": "2026-09-14T00:00:00+00:00",
+      "history": [
+        {
+          "at": "2026-09-14T00:00:00+00:00",
+          "state": "New",
+          "column": "Backlog",
+          "blocked": false
+        },
+        {
+          "at": "2026-09-14T06:00:00+00:00",
+          "state": "Active",
+          "column": "Doing",
+          "blocked": false
+        },
+        {
+          "at": "2026-09-15T06:00:00+00:00",
+          "state": "Active",
+          "column": "Waiting",
+          "blocked": true
+        },
+        {
+          "at": "2026-09-16T06:00:00+00:00",
+          "state": "Active",
+          "column": "Doing",
+          "blocked": false
+        },
+        {
+          "at": "2026-09-21T00:00:00+00:00",
+          "state": "Closed",
+          "column": "Done",
+          "blocked": false
+        }
+      ],
+      "historyComplete": true
+    },
+    {
+      "id": 1062,
+      "title": "Actualizar documentación de API · Operaciones",
+      "source": "Azure DevOps",
+      "type": "Task",
+      "state": "Active",
+      "priority": 2,
+      "assignee": "Carlos Ruiz",
+      "createdAt": "2026-09-07T00:00:00+00:00",
+      "changedAt": "2026-09-23T00:00:00+00:00",
+      "closedAt": null,
+      "waitingSince": null,
+      "responseTracked": true,
+      "dueAt": "2026-10-03T00:00:00+00:00",
+      "originalEstimate": 8,
+      "completedWork": 2,
+      "remainingWork": 4,
+      "tags": "demostración",
+      "url": null,
+      "stateChangedAt": "2026-09-07T00:00:00+00:00",
+      "history": [
+        {
+          "at": "2026-09-07T00:00:00+00:00",
+          "state": "New",
+          "column": "Backlog",
+          "blocked": false
+        },
+        {
+          "at": "2026-09-07T06:00:00+00:00",
+          "state": "Active",
+          "column": "Doing",
+          "blocked": false
+        }
+      ],
+      "historyComplete": true
+    },
+    {
+      "id": 1063,
+      "title": "Validación de formularios móviles · Operaciones",
+      "source": "Azure DevOps",
+      "type": "User Story",
+      "state": "Active",
+      "priority": 3,
+      "assignee": "María Torres",
+      "createdAt": "2026-08-31T00:00:00+00:00",
+      "changedAt": "2026-09-22T00:00:00+00:00",
+      "closedAt": null,
+      "waitingSince": null,
+      "responseTracked": true,
+      "dueAt": "2026-10-04T00:00:00+00:00",
+      "originalEstimate": 8,
+      "completedWork": 2,
+      "remainingWork": 4,
+      "tags": "demostración",
+      "url": null,
+      "stateChangedAt": "2026-08-31T00:00:00+00:00",
+      "history": [
+        {
+          "at": "2026-08-31T00:00:00+00:00",
+          "state": "New",
+          "column": "Backlog",
+          "blocked": false
+        },
+        {
+          "at": "2026-08-31T06:00:00+00:00",
+          "state": "Active",
+          "column": "Doing",
+          "blocked": false
+        }
+      ],
+      "historyComplete": true
+    },
+    {
+      "id": 1064,
+      "title": "Sincronización de inventario · Operaciones",
+      "source": "Azure DevOps",
+      "type": "Bug",
+      "state": "Closed",
+      "priority": 4,
+      "assignee": "Diego Silva",
+      "createdAt": "2026-08-24T00:00:00+00:00",
+      "changedAt": "2026-09-30T00:00:00+00:00",
+      "closedAt": "2026-09-03T00:00:00+00:00",
+      "waitingSince": null,
+      "responseTracked": true,
+      "dueAt": "2026-09-26T00:00:00+00:00",
+      "originalEstimate": 8,
+      "completedWork": 10,
+      "remainingWork": 4,
+      "tags": "demostración",
+      "url": null,
+      "stateChangedAt": "2026-08-24T00:00:00+00:00",
+      "history": [
+        {
+          "at": "2026-08-24T00:00:00+00:00",
+          "state": "New",
+          "column": "Backlog",
+          "blocked": false
+        },
+        {
+          "at": "2026-08-24T06:00:00+00:00",
+          "state": "Active",
+          "column": "Doing",
+          "blocked": false
+        },
+        {
+          "at": "2026-08-25T06:00:00+00:00",
+          "state": "Active",
+          "column": "Waiting",
+          "blocked": true
+        },
+        {
+          "at": "2026-08-26T06:00:00+00:00",
+          "state": "Active",
+          "column": "Doing",
+          "blocked": false
+        },
+        {
+          "at": "2026-09-03T00:00:00+00:00",
+          "state": "Closed",
+          "column": "Done",
+          "blocked": false
+        }
+      ],
+      "historyComplete": true
+    },
+    {
+      "id": 1065,
+      "title": "Facturas con moneda incorrecta · Operaciones",
+      "source": "Azure DevOps",
+      "type": "Bug",
+      "state": "Active",
+      "priority": 1,
+      "assignee": null,
+      "createdAt": "2026-08-17T00:00:00+00:00",
+      "changedAt": "2026-09-29T00:00:00+00:00",
+      "closedAt": null,
+      "waitingSince": null,
+      "responseTracked": true,
+      "dueAt": "2026-09-27T00:00:00+00:00",
+      "originalEstimate": 8,
+      "completedWork": 2,
+      "remainingWork": 4,
+      "tags": "demostración",
+      "url": null,
+      "stateChangedAt": "2026-08-17T00:00:00+00:00",
+      "history": [
+        {
+          "at": "2026-08-17T00:00:00+00:00",
+          "state": "New",
+          "column": "Backlog",
+          "blocked": false
+        },
+        {
+          "at": "2026-08-17T06:00:00+00:00",
+          "state": "Active",
+          "column": "Doing",
+          "blocked": false
+        }
+      ],
+      "historyComplete": true
+    },
+    {
+      "id": 1066,
+      "title": "Configurar alertas de disponibilidad · Operaciones",
+      "source": "Azure DevOps",
+      "type": "User Story",
+      "state": "Closed",
+      "priority": 2,
+      "assignee": "Ana López",
+      "createdAt": "2026-09-24T00:00:00+00:00",
+      "changedAt": "2026-09-28T00:00:00+00:00",
+      "closedAt": "2026-09-28T00:00:00+00:00",
+      "waitingSince": null,
+      "responseTracked": true,
+      "dueAt": "2026-09-28T00:00:00+00:00",
+      "originalEstimate": 8,
+      "completedWork": 2,
+      "remainingWork": 4,
+      "tags": "demostración",
+      "url": null,
+      "stateChangedAt": "2026-09-24T00:00:00+00:00",
+      "history": [
+        {
+          "at": "2026-09-24T00:00:00+00:00",
+          "state": "New",
+          "column": "Backlog",
+          "blocked": false
+        },
+        {
+          "at": "2026-09-24T06:00:00+00:00",
+          "state": "Active",
+          "column": "Doing",
+          "blocked": false
+        },
+        {
+          "at": "2026-09-28T00:00:00+00:00",
+          "state": "Closed",
+          "column": "Done",
+          "blocked": false
+        }
+      ],
+      "historyComplete": true
+    },
+    {
+      "id": 1067,
+      "title": "Error al adjuntar archivos · Operaciones",
+      "source": "Azure DevOps",
+      "type": "Bug",
+      "state": "New",
+      "priority": 3,
+      "assignee": "Carlos Ruiz",
+      "createdAt": "2026-09-17T00:00:00+00:00",
+      "changedAt": "2026-09-27T00:00:00+00:00",
+      "closedAt": null,
+      "waitingSince": "2026-09-29T12:00:00+00:00",
+      "responseTracked": true,
+      "dueAt": "2026-09-29T00:00:00+00:00",
+      "originalEstimate": 8,
+      "completedWork": 2,
+      "remainingWork": 4,
+      "tags": "demostración",
+      "url": null,
+      "stateChangedAt": "2026-09-17T00:00:00+00:00",
+      "history": [
+        {
+          "at": "2026-09-17T00:00:00+00:00",
+          "state": "New",
+          "column": "Backlog",
+          "blocked": false
+        }
+      ],
+      "historyComplete": true
+    },
+    {
+      "id": 1068,
+      "title": "Optimizar consulta de historial · Operaciones",
+      "source": "Azure DevOps",
+      "type": "Task",
+      "state": "Active",
+      "priority": 4,
+      "assignee": "María Torres",
+      "createdAt": "2026-09-10T00:00:00+00:00",
+      "changedAt": "2026-09-26T00:00:00+00:00",
+      "closedAt": null,
+      "waitingSince": null,
+      "responseTracked": true,
+      "dueAt": "2026-09-30T00:00:00+00:00",
+      "originalEstimate": 8,
+      "completedWork": 2,
+      "remainingWork": 4,
+      "tags": "demostración",
+      "url": null,
+      "stateChangedAt": "2026-09-10T00:00:00+00:00",
+      "history": [
+        {
+          "at": "2026-09-10T00:00:00+00:00",
+          "state": "New",
+          "column": "Backlog",
+          "blocked": false
+        },
+        {
+          "at": "2026-09-10T06:00:00+00:00",
+          "state": "Active",
+          "column": "Doing",
+          "blocked": false
+        }
+      ],
+      "historyComplete": true
+    },
+    {
+      "id": 1069,
+      "title": "Solicitud de acceso al entorno QA · Operaciones",
+      "source": "Azure DevOps",
+      "type": "Bug",
+      "state": "Closed",
+      "priority": 1,
+      "assignee": "Diego Silva",
+      "createdAt": "2026-09-03T00:00:00+00:00",
+      "changedAt": "2026-09-25T00:00:00+00:00",
+      "closedAt": "2026-09-10T00:00:00+00:00",
+      "waitingSince": null,
+      "responseTracked": true,
+      "dueAt": "2026-10-01T00:00:00+00:00",
+      "originalEstimate": 8,
+      "completedWork": 2,
+      "remainingWork": 4,
+      "tags": "demostración",
+      "url": null,
+      "stateChangedAt": "2026-09-03T00:00:00+00:00",
+      "history": [
+        {
+          "at": "2026-09-03T00:00:00+00:00",
+          "state": "New",
+          "column": "Backlog",
+          "blocked": false
+        },
+        {
+          "at": "2026-09-03T06:00:00+00:00",
+          "state": "Active",
+          "column": "Doing",
+          "blocked": false
+        },
+        {
+          "at": "2026-09-10T00:00:00+00:00",
+          "state": "Closed",
+          "column": "Done",
+          "blocked": false
+        }
+      ],
+      "historyComplete": true
+    },
+    {
+      "id": 1070,
+      "title": "Pruebas de regresión del checkout · Operaciones",
+      "source": "Azure DevOps",
+      "type": "Bug",
+      "state": "New",
+      "priority": 2,
+      "assignee": null,
+      "createdAt": "2026-08-27T00:00:00+00:00",
+      "changedAt": "2026-09-24T00:00:00+00:00",
+      "closedAt": null,
+      "waitingSince": "2026-09-26T12:00:00+00:00",
+      "responseTracked": true,
+      "dueAt": "2026-10-02T00:00:00+00:00",
+      "originalEstimate": 8,
+      "completedWork": 2,
+      "remainingWork": 4,
+      "tags": "demostración",
+      "url": null,
+      "stateChangedAt": "2026-08-27T00:00:00+00:00",
+      "history": [
+        {
+          "at": "2026-08-27T00:00:00+00:00",
+          "state": "New",
+          "column": "Backlog",
+          "blocked": false
+        }
+      ],
+      "historyComplete": true
+    },
+    {
+      "id": 1071,
+      "title": "Revisión de dependencias · Operaciones",
+      "source": "Azure DevOps",
+      "type": "Task",
+      "state": "Closed",
+      "priority": 3,
+      "assignee": "Ana López",
+      "createdAt": "2026-08-20T00:00:00+00:00",
+      "changedAt": "2026-09-23T00:00:00+00:00",
+      "closedAt": "2026-08-29T00:00:00+00:00",
+      "waitingSince": null,
+      "responseTracked": true,
+      "dueAt": "2026-10-03T00:00:00+00:00",
+      "originalEstimate": 8,
+      "completedWork": 10,
+      "remainingWork": 4,
+      "tags": "demostración",
+      "url": null,
+      "stateChangedAt": "2026-08-20T00:00:00+00:00",
+      "history": [
+        {
+          "at": "2026-08-20T00:00:00+00:00",
+          "state": "New",
+          "column": "Backlog",
+          "blocked": false
+        },
+        {
+          "at": "2026-08-20T06:00:00+00:00",
+          "state": "Active",
+          "column": "Doing",
+          "blocked": false
+        },
+        {
+          "at": "2026-08-29T00:00:00+00:00",
+          "state": "Closed",
+          "column": "Done",
+          "blocked": false
+        }
+      ],
+      "historyComplete": true
+    },
+    {
+      "id": 1072,
+      "title": "Seguimiento de incidencias recurrentes · Operaciones",
+      "source": "Azure DevOps",
+      "type": "User Story",
+      "state": "Active",
+      "priority": 4,
+      "assignee": "Carlos Ruiz",
+      "createdAt": "2026-09-27T00:00:00+00:00",
+      "changedAt": "2026-09-27T00:00:00+00:00",
+      "closedAt": null,
+      "waitingSince": null,
+      "responseTracked": true,
+      "dueAt": "2026-10-04T00:00:00+00:00",
+      "originalEstimate": 8,
+      "completedWork": 2,
+      "remainingWork": 4,
+      "tags": "demostración",
+      "url": null,
+      "stateChangedAt": "2026-09-27T00:00:00+00:00",
+      "history": [
+        {
+          "at": "2026-09-27T00:00:00+00:00",
+          "state": "New",
+          "column": "Backlog",
+          "blocked": false
+        },
+        {
+          "at": "2026-09-27T06:00:00+00:00",
+          "state": "Active",
+          "column": "Doing",
+          "blocked": false
+        }
+      ],
+      "historyComplete": true
+    }
+  ],
+  "flowProvenance": "Historial sintético de demostración; no representa transiciones reales de Azure DevOps."
+}

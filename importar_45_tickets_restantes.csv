@@ -1,0 +1,51 @@
+﻿ID,Work Item Type,Title 1,Title 2,Title 3,Title 4,Priority,Tags
+9,Epic,Demo | Portal de atención,,,,,
+11,Feature,,Demo | Ingreso y perfiles,,,,
+,User Story,,,Demo | Registro de cuenta,,1,dashboard-demo; qa; lote-2026
+,Task,,,,Demo | Implementar componente 01,3,dashboard-demo; frontend; lote-2026
+,Task,,,,Demo | Implementar componente 12,2,dashboard-demo; qa; lote-2026
+,Bug,,,,Demo | Sesión caduca antes de tiempo,3,dashboard-demo; frontend; lote-2026
+,User Story,,,Demo | Inicio de sesión,,2,dashboard-demo; frontend; lote-2026
+,User Story,,,Demo | Recuperar acceso,,3,dashboard-demo; backend; lote-2026
+,Task,,,,Demo | Implementar componente 02,4,dashboard-demo; backend; lote-2026
+,User Story,,,Demo | Permisos por rol,,4,dashboard-demo; qa; lote-2026
+,Bug,,,,Demo | Filtro omite tickets,4,dashboard-demo; backend; lote-2026
+12,Feature,,Demo | Búsqueda y filtros,,,,
+,User Story,,,Demo | Buscar por folio,,1,dashboard-demo; frontend; lote-2026
+,Task,,,,Demo | Implementar componente 03,1,dashboard-demo; qa; lote-2026
+,User Story,,,Demo | Filtrar por estado,,2,dashboard-demo; backend; lote-2026
+,User Story,,,Demo | Ordenar resultados,,3,dashboard-demo; qa; lote-2026
+,Task,,,,Demo | Implementar componente 04,2,dashboard-demo; frontend; lote-2026
+,Bug,,,,Demo | Orden incorrecto,1,dashboard-demo; qa; lote-2026
+,User Story,,,Demo | Exportar resultados,,4,dashboard-demo; frontend; lote-2026
+13,Feature,,Demo | Notificaciones,,,,
+,User Story,,,Demo | Correo de asignación,,1,dashboard-demo; backend; lote-2026
+,Task,,,,Demo | Implementar componente 05,3,dashboard-demo; backend; lote-2026
+,User Story,,,Demo | Aviso de vencimiento,,2,dashboard-demo; qa; lote-2026
+,Bug,,,,Demo | Correo duplicado,2,dashboard-demo; frontend; lote-2026
+,User Story,,,Demo | Preferencias de alertas,,3,dashboard-demo; frontend; lote-2026
+,Task,,,,Demo | Implementar componente 06,4,dashboard-demo; qa; lote-2026
+,User Story,,,Demo | Historial de avisos,,4,dashboard-demo; backend; lote-2026
+10,Epic,Demo | Analítica y operación,,,,,
+,Feature,,Demo | Tablero ejecutivo,,,2,dashboard-demo; qa; lote-2026
+,User Story,,,Demo | Indicadores de flujo,,1,dashboard-demo; qa; lote-2026
+,Task,,,,Demo | Implementar componente 07,1,dashboard-demo; frontend; lote-2026
+,Bug,,,,Demo | Contador desfasado,3,dashboard-demo; backend; lote-2026
+,User Story,,,Demo | Gráfica de tendencias,,2,dashboard-demo; frontend; lote-2026
+,User Story,,,Demo | Desglose por equipo,,3,dashboard-demo; backend; lote-2026
+,Task,,,,Demo | Implementar componente 08,2,dashboard-demo; backend; lote-2026
+,User Story,,,Demo | Detalle de ticket,,4,dashboard-demo; qa; lote-2026
+,Bug,,,,Demo | Error al exportar,4,dashboard-demo; qa; lote-2026
+,Feature,,Demo | Integraciones,,,3,dashboard-demo; frontend; lote-2026
+,User Story,,,Demo | Sincronización ADO,,1,dashboard-demo; frontend; lote-2026
+,Task,,,,Demo | Implementar componente 09,3,dashboard-demo; qa; lote-2026
+,User Story,,,Demo | Actualización incremental,,2,dashboard-demo; backend; lote-2026
+,User Story,,,Demo | Registro de errores,,3,dashboard-demo; qa; lote-2026
+,Task,,,,Demo | Implementar componente 10,4,dashboard-demo; frontend; lote-2026
+,Bug,,,,Demo | Permisos insuficientes,1,dashboard-demo; frontend; lote-2026
+,User Story,,,Demo | Validar entrada,,4,dashboard-demo; frontend; lote-2026
+,Feature,,Demo | Calidad y seguridad,,,4,dashboard-demo; backend; lote-2026
+,User Story,,,Demo | Auditoría de cambios,,1,dashboard-demo; backend; lote-2026
+,Task,,,,Demo | Implementar componente 11,1,dashboard-demo; backend; lote-2026
+,User Story,,,Demo | Pruebas de accesibilidad,,2,dashboard-demo; qa; lote-2026
+,Bug,,,,Demo | Diseño móvil cortado,2,dashboard-demo; backend; lote-2026
